@@ -1,0 +1,27 @@
+{
+  "id": "preset-tone-photocopy-bw-v01",
+  "name": "Photocopy BW",
+  "category": "tone",
+  "tags": [
+    "photocopy",
+    "bw",
+    "v03"
+  ],
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": 0.12,
+    "saturation": -1.0,
+    "temperature": 0.0,
+    "tint": 0.0,
+    "fade": 0.04,
+    "highlights": 0.06,
+    "shadows": -0.08
+  },
+  "recommendedOverlays": [
+    {
+      "assetId": "overlay-photocopy-soft-mono-overlay-1080x1920-v01",
+      "blendMode": "overlay",
+      "opacity": 0.28
+    }
+  ]
+}

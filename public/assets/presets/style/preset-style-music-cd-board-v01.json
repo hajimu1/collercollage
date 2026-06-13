@@ -1,0 +1,14 @@
+{
+  "id": "preset-style-music-cd-board-v01",
+  "name": "Music CD Board",
+  "category": "style",
+  "tags": [
+    "music",
+    "cd"
+  ],
+  "components": [
+    "music-card",
+    "cd",
+    "glow"
+  ]
+}

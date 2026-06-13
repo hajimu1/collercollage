@@ -1,0 +1,22 @@
+{
+  "id": "preset-style-scrapbook-paper-v01",
+  "name": "Scrapbook Paper",
+  "category": "style",
+  "tags": [
+    "style",
+    "bundle",
+    "v04"
+  ],
+  "recommendedBackgrounds": [
+    "bg-paper-diary-cream-1080x1920-v01"
+  ],
+  "recommendedStickers": [
+    "sticker-tape-matte-cream-strip-512-v01",
+    "sticker-paper-scrap-good-things-cream-512-v01"
+  ],
+  "recommendedUi": [
+    "ui-note-quote-box-white-1080x1920-v01"
+  ],
+  "recommendedTonePresetId": "preset-tone-sunset-milk-v01",
+  "recommendedTypographyPresetId": "preset-typography-typewriter-note-v01"
+}

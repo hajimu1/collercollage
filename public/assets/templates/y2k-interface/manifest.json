@@ -1,0 +1,77 @@
+{
+  "category": "templates",
+  "type": "y2k-interface",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-y2k-interface-01-1080x1920-v01",
+      "name": "Y2K Interface 01",
+      "file": "template-y2k-interface-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-y2k-interface-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "y2k-interface",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-y2k-interface-02-1080x1920-v01",
+      "name": "Y2K Interface 02",
+      "file": "template-y2k-interface-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-y2k-interface-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "y2k-interface",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-y2k-interface-03-1080x1920-v01",
+      "name": "Y2K Interface 03",
+      "file": "template-y2k-interface-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-y2k-interface-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "y2k-interface",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-y2k-interface-04-1080x1920-v01",
+      "name": "Y2K Interface 04",
+      "file": "template-y2k-interface-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-y2k-interface-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "y2k-interface",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-y2k-interface-soft-1080x1920-v01",
+      "name": "Y2K Interface Soft",
+      "file": "template-y2k-interface-soft-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-y2k-interface-soft-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "y2k-interface",
+        "template",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

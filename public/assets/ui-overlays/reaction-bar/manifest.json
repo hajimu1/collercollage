@@ -1,0 +1,41 @@
+{
+  "category": "ui-overlays",
+  "type": "reaction-bar",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-reaction-bar-glass-mini-1080x1920-v01",
+      "name": "Mini Glass Reaction Bar",
+      "file": "ui-reaction-bar-glass-mini-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "reaction-bar",
+        "generic"
+      ],
+      "preview": "../../previews/ui-overlays/ui-reaction-bar-glass-mini-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": false
+    },
+    {
+      "id": "ui-reaction-bar-rounded-white-1080x1920-v01",
+      "name": "Rounded White Reaction Bar",
+      "file": "ui-reaction-bar-rounded-white-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "reaction-bar",
+        "generic"
+      ],
+      "preview": "../../previews/ui-overlays/ui-reaction-bar-rounded-white-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": false
+    }
+  ]
+}

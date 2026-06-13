@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-playlist-title-v01",
+  "name": "Playlist Title",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Inter\", \"Pretendard\", sans-serif",
+  "fontSize": 30,
+  "fontWeight": 700,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.15,
+  "fill": "#ffffff"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "preset-tone-old-phone-camera-v01",
+  "name": "Old Phone Camera",
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": 0.08,
+    "saturation": -0.08,
+    "temperature": 0.04,
+    "tint": 0.01,
+    "fade": 0.08,
+    "sharpen": 0.22,
+    "noise": 0.2
+  },
+  "recommendedOverlays": [
+    {
+      "assetId": "overlay-grain-square-digital-neutral-1080x1920-v01",
+      "blendMode": "overlay",
+      "opacity": 0.24
+    },
+    {
+      "assetId": "overlay-flash-corner-white-screen-1080x1920-v01",
+      "blendMode": "screen",
+      "opacity": 0.18
+    }
+  ],
+  "category": "tone",
+  "version": 1,
+  "tags": [
+    "old",
+    "phone",
+    "camera",
+    "tone",
+    "preset"
+  ]
+}

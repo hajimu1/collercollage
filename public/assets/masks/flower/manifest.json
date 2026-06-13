@@ -1,0 +1,46 @@
+{
+  "category": "masks",
+  "type": "flower",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-flower-soft-6petal-black-1024-v01",
+      "name": "Soft 6-Petal Flower",
+      "file": "mask-flower-soft-6petal-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "flower",
+        "soft"
+      ],
+      "preview": "../../previews/masks/mask-flower-soft-6petal-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-flower-soft-7petal-black-1024-v01",
+      "name": "Soft 7-Petal Flower",
+      "file": "mask-flower-soft-7petal-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "flower",
+        "soft"
+      ],
+      "preview": "../../previews/masks/mask-flower-soft-7petal-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-flower-soft-8petal-black-1024-v01",
+      "name": "Soft 8-Petal Flower",
+      "file": "mask-flower-soft-8petal-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "flower",
+        "soft"
+      ],
+      "preview": "../../previews/masks/mask-flower-soft-8petal-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    }
+  ]
+}

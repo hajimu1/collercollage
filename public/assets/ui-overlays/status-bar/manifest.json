@@ -1,0 +1,46 @@
+{
+  "category": "ui-overlays",
+  "type": "status-bar",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-status-bar-generic-white-1080x1920-v01",
+      "name": "Ui Status Bar Generic White",
+      "file": "ui-status-bar-generic-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-status-bar-generic-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "status-bar"
+      ]
+    },
+    {
+      "id": "ui-status-bar-generic-white-1080x1920-v02",
+      "name": "Ui Status Bar Generic White",
+      "file": "ui-status-bar-generic-white-1080x1920-v02.svg",
+      "preview": "../../previews/ui-overlays/ui-status-bar-generic-white-1080x1920-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "status-bar"
+      ]
+    },
+    {
+      "id": "ui-status-bar-generic-white-1080x1920-v03",
+      "name": "Ui Status Bar Generic White",
+      "file": "ui-status-bar-generic-white-1080x1920-v03.svg",
+      "preview": "../../previews/ui-overlays/ui-status-bar-generic-white-1080x1920-v03-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "status-bar"
+      ]
+    }
+  ]
+}

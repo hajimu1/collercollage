@@ -1,0 +1,35 @@
+{
+  "category": "frames",
+  "type": "contact-sheet",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-contact-sheet-film-black-vertical-9x16-v01",
+      "name": "Contact Sheet Film",
+      "file": "frame-contact-sheet-film-black-vertical-9x16-v01.svg",
+      "preview": "../../previews/frames/frame-contact-sheet-film-black-vertical-9x16-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "contact-sheet",
+        "frame",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "frame-photo-strip-mini-black-vertical-9x16-v01",
+      "name": "Photo Strip Mini",
+      "file": "frame-photo-strip-mini-black-vertical-9x16-v01.svg",
+      "preview": "../../previews/frames/frame-photo-strip-mini-black-vertical-9x16-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "contact-sheet",
+        "frame",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

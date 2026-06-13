@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<rect x="146" y="1328" width="786" height="174" rx="44" fill="rgba(0,0,0,.58)"/><rect x="190" y="1370" width="90" height="90" rx="12" fill="rgba(255,255,255,.2)"/><path d="M230 1396 V1446 L268 1420 Z" fill="#fff" opacity=".9"/><text x="318" y="1414" font-family="Inter, Arial, sans-serif" font-size="36" fill="#fff">night playlist</text><rect x="318" y="1458" width="460" height="7" rx="4" fill="rgba(255,255,255,.25)"/><rect x="318" y="1458" width="216" height="7" rx="4" fill="#fff"/>
+</svg>

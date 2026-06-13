@@ -1,0 +1,357 @@
+{
+  "category": "presets",
+  "type": "typography",
+  "version": 1,
+  "items": [
+    {
+      "id": "preset-typography-date-label-v01",
+      "name": "Date Label",
+      "file": "preset-typography-date-label-v01.json",
+      "preview": "../../previews/presets/preset-typography-date-label-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-editorial-number-v01",
+      "name": "Editorial Number",
+      "file": "preset-typography-editorial-number-v01.json",
+      "preview": "../../previews/presets/preset-typography-editorial-number-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "typography"
+      ]
+    },
+    {
+      "id": "preset-typography-editorial-serif-v01",
+      "name": "Editorial Serif",
+      "file": "preset-typography-editorial-serif-v01.json",
+      "preview": "../../previews/presets/preset-typography-editorial-serif-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-japanese-note-soft-v01",
+      "name": "Japanese Note Soft",
+      "file": "preset-typography-japanese-note-soft-v01.json",
+      "preview": "../../previews/presets/preset-typography-japanese-note-soft-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-japanese-tiny-caption-v01",
+      "name": "Japanese Tiny Caption",
+      "file": "preset-typography-japanese-tiny-caption-v01.json",
+      "preview": "../../previews/presets/preset-typography-japanese-tiny-caption-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-korean-caption-white-v01",
+      "name": "Korean Caption White",
+      "file": "preset-typography-korean-caption-white-v01.json",
+      "preview": "../../previews/presets/preset-typography-korean-caption-white-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-korean-soft-note-v01",
+      "name": "Korean Soft Note",
+      "file": "preset-typography-korean-soft-note-v01.json",
+      "preview": "../../previews/presets/preset-typography-korean-soft-note-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-korean-title-clean-v01",
+      "name": "Korean Title Clean",
+      "file": "preset-typography-korean-title-clean-v01.json",
+      "preview": "../../previews/presets/preset-typography-korean-title-clean-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-location-pill-v01",
+      "name": "Location Pill",
+      "file": "preset-typography-location-pill-v01.json",
+      "preview": "../../previews/presets/preset-typography-location-pill-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-lyric-serif-v01",
+      "name": "Lyric Serif",
+      "file": "preset-typography-lyric-serif-v01.json",
+      "preview": "../../previews/presets/preset-typography-lyric-serif-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-magazine-kicker-v01",
+      "name": "Magazine Kicker",
+      "file": "preset-typography-magazine-kicker-v01.json",
+      "preview": "../../previews/presets/preset-typography-magazine-kicker-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-magazine-page-number-v01",
+      "name": "Magazine Page Number",
+      "file": "preset-typography-magazine-page-number-v01.json",
+      "preview": "../../previews/presets/preset-typography-magazine-page-number-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-micro-location-v01",
+      "name": "Micro Location Tag",
+      "file": "preset-typography-micro-location-v01.json",
+      "preview": "../../previews/presets/preset-typography-micro-location-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "typography"
+      ]
+    },
+    {
+      "id": "preset-typography-micro-timestamp-v01",
+      "name": "Micro Timestamp",
+      "file": "preset-typography-micro-timestamp-v01.json",
+      "format": "json",
+      "tags": [
+        "typography",
+        "preset",
+        "micro",
+        "timestamp"
+      ]
+    },
+    {
+      "id": "preset-typography-music-lyric-serif-v01",
+      "name": "Music Lyric Serif",
+      "file": "preset-typography-music-lyric-serif-v01.json",
+      "preview": "../../previews/presets/preset-typography-music-lyric-serif-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-typography-pixel-mini-v01",
+      "name": "Pixel Mini",
+      "file": "preset-typography-pixel-mini-v01.json",
+      "preview": "../../previews/presets/preset-typography-pixel-mini-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-playlist-subtitle-v01",
+      "name": "Playlist Subtitle",
+      "file": "preset-typography-playlist-subtitle-v01.json",
+      "preview": "../../previews/presets/preset-typography-playlist-subtitle-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-playlist-title-v01",
+      "name": "Playlist Title",
+      "file": "preset-typography-playlist-title-v01.json",
+      "preview": "../../previews/presets/preset-typography-playlist-title-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-scribble-caption-v01",
+      "name": "Scribble Caption",
+      "file": "preset-typography-scribble-caption-v01.json",
+      "preview": "../../previews/presets/preset-typography-scribble-caption-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-small-white-caption-v01",
+      "name": "Small White Caption",
+      "file": "preset-typography-small-white-caption-v01.json",
+      "preview": "../../previews/presets/preset-typography-small-white-caption-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-soft-diary-note-v01",
+      "name": "Soft Diary Note",
+      "file": "preset-typography-soft-diary-note-v01.json",
+      "preview": "../../previews/presets/preset-typography-soft-diary-note-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "typography"
+      ]
+    },
+    {
+      "id": "preset-typography-soft-lowercase-v01",
+      "name": "Soft Lowercase",
+      "file": "preset-typography-soft-lowercase-v01.json",
+      "preview": "../../previews/presets/preset-typography-soft-lowercase-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-timestamp-mono-v01",
+      "name": "Timestamp Mono",
+      "file": "preset-typography-timestamp-mono-v01.json",
+      "preview": "../../previews/presets/preset-typography-timestamp-mono-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-tiny-diary-note-v01",
+      "name": "Tiny Diary Note",
+      "file": "preset-typography-tiny-diary-note-v01.json",
+      "preview": "../../previews/presets/preset-typography-tiny-diary-note-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-typography-tiny-gray-note-v01",
+      "name": "Tiny Gray Note",
+      "file": "preset-typography-tiny-gray-note-v01.json",
+      "preview": "../../previews/presets/preset-typography-tiny-gray-note-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-typography-typewriter-note-v01",
+      "name": "Typewriter Note",
+      "file": "preset-typography-typewriter-note-v01.json",
+      "preview": "../../previews/presets/preset-typography-typewriter-note-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "typography",
+        "preset",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

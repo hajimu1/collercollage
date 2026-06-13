@@ -1,0 +1,82 @@
+{
+  "category": "overlays",
+  "type": "scan",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-scan-lines-white-screen-1080x1920-v01",
+      "name": "White Scan Lines",
+      "file": "overlay-scan-lines-white-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "scan",
+        "lines",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-scan-lines-white-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.3,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-scan-old-phone-line-neutral-1080x1920-v01",
+      "name": "Overlay Scan Old Phone Line Neutral",
+      "file": "overlay-scan-old-phone-line-neutral-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-scan-old-phone-line-neutral-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.25,
+      "tags": [
+        "scan",
+        "line",
+        "old-phone"
+      ]
+    },
+    {
+      "id": "overlay-scan-photocopy-line-neutral-1080x1920-v01",
+      "name": "Overlay Scan Photocopy Line Neutral",
+      "file": "overlay-scan-photocopy-line-neutral-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-scan-photocopy-line-neutral-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.25,
+      "tags": [
+        "scan",
+        "line",
+        "photocopy"
+      ]
+    },
+    {
+      "id": "overlay-scan-thin-line-neutral-1080x1920-v01",
+      "name": "Overlay Scan Thin Line Neutral",
+      "file": "overlay-scan-thin-line-neutral-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-scan-thin-line-neutral-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.25,
+      "tags": [
+        "scan",
+        "line",
+        "thin"
+      ]
+    },
+    {
+      "id": "overlay-scan-uneven-line-neutral-1080x1920-v01",
+      "name": "Overlay Scan Uneven Line Neutral",
+      "file": "overlay-scan-uneven-line-neutral-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-scan-uneven-line-neutral-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.25,
+      "tags": [
+        "scan",
+        "line",
+        "uneven"
+      ]
+    }
+  ]
+}

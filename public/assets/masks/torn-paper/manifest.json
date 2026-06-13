@@ -1,0 +1,46 @@
+{
+  "category": "masks",
+  "type": "torn-paper",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-torn-paper-rough-black-1024-v01",
+      "name": "Rough Torn Paper Mask 1",
+      "file": "mask-torn-paper-rough-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "torn-paper",
+        "rough"
+      ],
+      "preview": "../../previews/masks/mask-torn-paper-rough-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-torn-paper-rough-black-1024-v02",
+      "name": "Rough Torn Paper Mask 2",
+      "file": "mask-torn-paper-rough-black-1024-v02.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "torn-paper",
+        "rough"
+      ],
+      "preview": "../../previews/masks/mask-torn-paper-rough-black-1024-v02-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-torn-paper-rough-black-1024-v03",
+      "name": "Rough Torn Paper Mask 3",
+      "file": "mask-torn-paper-rough-black-1024-v03.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "torn-paper",
+        "rough"
+      ],
+      "preview": "../../previews/masks/mask-torn-paper-rough-black-1024-v03-preview.png",
+      "viewBox": "0 0 1024 1024"
+    }
+  ]
+}

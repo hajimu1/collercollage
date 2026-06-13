@@ -1,0 +1,14 @@
+{
+  "id": "preset-style-soft-phone-diary-v01",
+  "name": "Soft Phone Diary",
+  "category": "style",
+  "tags": [
+    "phone",
+    "diary"
+  ],
+  "components": [
+    "search-bar",
+    "notification",
+    "paper"
+  ]
+}

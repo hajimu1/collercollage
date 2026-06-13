@@ -1,0 +1,22 @@
+{
+  "id": "preset-typography-music-lyric-serif-v01",
+  "name": "Music Lyric Serif",
+  "category": "typography",
+  "tags": [
+    "music",
+    "serif",
+    "v03"
+  ],
+  "fontFamily": "\"Cormorant Garamond\", \"Times New Roman\", serif",
+  "fontSize": 34,
+  "fontWeight": 600,
+  "letterSpacing": 0.02,
+  "lineHeight": 1.25,
+  "fill": "#ffffff",
+  "shadow": {
+    "color": "rgba(0,0,0,0.22)",
+    "blur": 8,
+    "offsetX": 0,
+    "offsetY": 2
+  }
+}

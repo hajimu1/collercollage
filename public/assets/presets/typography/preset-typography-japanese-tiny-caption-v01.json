@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-japanese-tiny-caption-v01",
+  "name": "Japanese Tiny Caption",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Yu Gothic\", \"Hiragino Sans\", sans-serif",
+  "fontSize": 24,
+  "fontWeight": 500,
+  "letterSpacing": 0.02,
+  "lineHeight": 1.3,
+  "fill": "#ffffff"
+}

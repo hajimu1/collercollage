@@ -1,0 +1,20 @@
+{
+  "assetPack": "instagram-story-asset-set-v04",
+  "focus": [
+    "story templates",
+    "text and caption stickers",
+    "typography presets",
+    "tape paper label set",
+    "style bundles"
+  ],
+  "counts": {
+    "templates": 42,
+    "textStickers": 50,
+    "tapePaperLabelStickers": 30,
+    "backgrounds": 12,
+    "uiOverlays": 10,
+    "tonePresets": 10,
+    "typographyPresets": 20,
+    "styleBundles": 10
+  }
+}

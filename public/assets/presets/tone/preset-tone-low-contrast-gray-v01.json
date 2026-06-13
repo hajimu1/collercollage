@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-low-contrast-gray-v01",
+  "name": "Low Contrast Gray",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": -0.16,
+    "saturation": -0.25,
+    "temperature": -0.01,
+    "tint": 0.0,
+    "fade": 0.14,
+    "highlights": 0.04,
+    "shadows": 0.1
+  }
+}

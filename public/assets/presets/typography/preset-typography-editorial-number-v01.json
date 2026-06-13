@@ -1,0 +1,14 @@
+{
+  "id": "preset-typography-editorial-number-v01",
+  "name": "Editorial Number",
+  "category": "typography",
+  "fontFamily": "Georgia, \"Times New Roman\", serif",
+  "fontSize": 96,
+  "fontWeight": 700,
+  "letterSpacing": -0.04,
+  "lineHeight": 1.15,
+  "fill": "#ffffff",
+  "tags": [
+    "typography"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "assetPack": "instagram-story-asset-set-v01-to-v04-integrated",
+  "version": 1,
+  "manifests": [
+    {
+      "category": "backgrounds",
+      "type": "checker",
+      "manifest": "backgrounds/checker/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "dot",
+      "manifest": "backgrounds/dot/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "gradient",
+      "manifest": "backgrounds/gradient/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "grid",
+      "manifest": "backgrounds/grid/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "lined",
+      "manifest": "backgrounds/lined/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "magazine",
+      "manifest": "backgrounds/magazine/manifest.json"
+    },
+    {
+      "category": "backgrounds",
+      "type": "paper",
+      "manifest": "backgrounds/paper/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "border",
+      "manifest": "frames/border/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "contact-sheet",
+      "manifest": "frames/contact-sheet/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "film",
+      "manifest": "frames/film/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "hand-drawn",
+      "manifest": "frames/hand-drawn/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "memo",
+      "manifest": "frames/memo/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "phone-card",
+      "manifest": "frames/phone-card/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "polaroid",
+      "manifest": "frames/polaroid/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "postage",
+      "manifest": "frames/postage/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "receipt",
+      "manifest": "frames/receipt/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "stacked",
+      "manifest": "frames/stacked/manifest.json"
+    },
+    {
+      "category": "frames",
+      "type": "tape",
+      "manifest": "frames/tape/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "arch",
+      "manifest": "masks/arch/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "blob",
+      "manifest": "masks/blob/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "cloud",
+      "manifest": "masks/cloud/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "flower",
+      "manifest": "masks/flower/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "music-card",
+      "manifest": "masks/music-card/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "organic",
+      "manifest": "masks/organic/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "speech-bubble",
+      "manifest": "masks/speech-bubble/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "starburst",
+      "manifest": "masks/starburst/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "sticker-cutout",
+      "manifest": "masks/sticker-cutout/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "ticket",
+      "manifest": "masks/ticket/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "torn-paper",
+      "manifest": "masks/torn-paper/manifest.json"
+    },
+    {
+      "category": "masks",
+      "type": "wave-ticket",
+      "manifest": "masks/wave-ticket/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "dust",
+      "manifest": "overlays/dust/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "flash",
+      "manifest": "overlays/flash/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "fold-shadow",
+      "manifest": "overlays/fold-shadow/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "glow",
+      "manifest": "overlays/glow/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "grain",
+      "manifest": "overlays/grain/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "haze",
+      "manifest": "overlays/haze/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "light-leak",
+      "manifest": "overlays/light-leak/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "paper",
+      "manifest": "overlays/paper/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "photocopy",
+      "manifest": "overlays/photocopy/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "scan",
+      "manifest": "overlays/scan/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "scratch",
+      "manifest": "overlays/scratch/manifest.json"
+    },
+    {
+      "category": "overlays",
+      "type": "vignette",
+      "manifest": "overlays/vignette/manifest.json"
+    },
+    {
+      "category": "presets",
+      "type": "style",
+      "manifest": "presets/style/manifest.json"
+    },
+    {
+      "category": "presets",
+      "type": "tone",
+      "manifest": "presets/tone/manifest.json"
+    },
+    {
+      "category": "presets",
+      "type": "typography",
+      "manifest": "presets/typography/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "black-magazine",
+      "manifest": "templates/black-magazine/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "diary-page",
+      "manifest": "templates/diary-page/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "editorial",
+      "manifest": "templates/editorial/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "magazine-collage",
+      "manifest": "templates/magazine-collage/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "music-mood",
+      "manifest": "templates/music-mood/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "phone-screenshot",
+      "manifest": "templates/phone-screenshot/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "photo-dump",
+      "manifest": "templates/photo-dump/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "scrapbook",
+      "manifest": "templates/scrapbook/manifest.json"
+    },
+    {
+      "category": "templates",
+      "type": "y2k-interface",
+      "manifest": "templates/y2k-interface/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "bottom-nav",
+      "manifest": "ui-overlays/bottom-nav/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "camera-ui",
+      "manifest": "ui-overlays/camera-ui/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "chat",
+      "manifest": "ui-overlays/chat/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "comment",
+      "manifest": "ui-overlays/comment/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "editorial",
+      "manifest": "ui-overlays/editorial/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "location",
+      "manifest": "ui-overlays/location/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "music",
+      "manifest": "ui-overlays/music/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "music-card",
+      "manifest": "ui-overlays/music-card/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "note",
+      "manifest": "ui-overlays/note/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "notification",
+      "manifest": "ui-overlays/notification/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "playlist",
+      "manifest": "ui-overlays/playlist/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "poll",
+      "manifest": "ui-overlays/poll/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "reaction-bar",
+      "manifest": "ui-overlays/reaction-bar/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "search-bar",
+      "manifest": "ui-overlays/search-bar/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "status",
+      "manifest": "ui-overlays/status/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "status-bar",
+      "manifest": "ui-overlays/status-bar/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "story",
+      "manifest": "ui-overlays/story/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "time-badge",
+      "manifest": "ui-overlays/time-badge/manifest.json"
+    },
+    {
+      "category": "ui-overlays",
+      "type": "timestamp",
+      "manifest": "ui-overlays/timestamp/manifest.json"
+    }
+  ]
+}

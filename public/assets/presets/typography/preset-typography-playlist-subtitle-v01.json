@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-playlist-subtitle-v01",
+  "name": "Playlist Subtitle",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Inter\", \"Pretendard\", sans-serif",
+  "fontSize": 22,
+  "fontWeight": 500,
+  "letterSpacing": 0.02,
+  "lineHeight": 1.18,
+  "fill": "rgba(255,255,255,0.72)"
+}

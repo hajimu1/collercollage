@@ -1,0 +1,17 @@
+{
+  "id": "preset-style-clean-story-minimal-v01",
+  "name": "Clean Story Minimal",
+  "category": "style",
+  "tags": [
+    "clean",
+    "story",
+    "v03"
+  ],
+  "recommendedUi": [
+    "ui-timestamp-badge-rounded-white-1080x1920-v01",
+    "ui-location-tag-pill-white-1080x1920-v01"
+  ],
+  "recommendedBackgrounds": [
+    "bg-gradient-faded-lilacblue-1080x1920-v01"
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<text x="90" y="112" font-family="monospace" font-size="34" fill="#fff">REC</text><circle cx="170" cy="101" r="10" fill="#ff4d55"/><path d="M80 210 H220 M80 210 V350 M1000 210 H860 M1000 210 V350 M80 1710 H220 M80 1710 V1570 M1000 1710 H860 M1000 1710 V1570" stroke="#fff" stroke-width="8" stroke-linecap="round" fill="none"/><text x="540" y="1802" font-family="monospace" font-size="30" text-anchor="middle" fill="#fff">00:12:09</text>
+</svg>

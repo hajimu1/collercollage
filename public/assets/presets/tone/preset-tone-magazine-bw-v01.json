@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-magazine-bw-v01",
+  "name": "Magazine BW",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.01,
+    "contrast": 0.14,
+    "saturation": -1.0,
+    "temperature": 0.0,
+    "tint": 0.0,
+    "fade": 0.03,
+    "highlights": 0.05,
+    "shadows": -0.08
+  }
+}

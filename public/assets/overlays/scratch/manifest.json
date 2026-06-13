@@ -1,0 +1,67 @@
+{
+  "category": "overlays",
+  "type": "scratch",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-scratch-diagonal-white-transparent-1080x1920-v01",
+      "name": "Diagonal White Scratches",
+      "file": "overlay-scratch-diagonal-white-transparent-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "scratch",
+        "diagonal",
+        "white",
+        "film"
+      ],
+      "preview": "../../previews/overlays/overlay-scratch-diagonal-white-transparent-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.32,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-scratch-hairline-mono-transparent-1080x1920-v01",
+      "name": "Mono Hairline Scratches",
+      "file": "overlay-scratch-hairline-mono-transparent-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "scratch",
+        "hairline",
+        "mono",
+        "photocopy"
+      ],
+      "preview": "../../previews/overlays/overlay-scratch-hairline-mono-transparent-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "soft-light",
+      "recommendedOpacity": 0.34,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-scratch-vertical-white-transparent-1080x1920-v01",
+      "name": "Vertical White Scratches",
+      "file": "overlay-scratch-vertical-white-transparent-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "scratch",
+        "vertical",
+        "white",
+        "film"
+      ],
+      "preview": "../../previews/overlays/overlay-scratch-vertical-white-transparent-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    }
+  ]
+}

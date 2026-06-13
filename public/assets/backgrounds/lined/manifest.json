@@ -1,0 +1,35 @@
+{
+  "category": "backgrounds",
+  "type": "lined",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-notebook-lined-warm-1080x1920-v01",
+      "name": "Notebook Lined Warm",
+      "file": "bg-notebook-lined-warm-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-notebook-lined-warm-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "lined",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-notebook-margin-soft-1080x1920-v01",
+      "name": "Notebook Margin Soft",
+      "file": "bg-notebook-margin-soft-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-notebook-margin-soft-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "lined",
+        "background",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

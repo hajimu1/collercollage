@@ -1,0 +1,21 @@
+{
+  "category": "ui-overlays",
+  "type": "location",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-location-tag-pill-white-1080x1920-v01",
+      "name": "Location Tag Pill",
+      "file": "ui-location-tag-pill-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-location-tag-pill-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "location",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

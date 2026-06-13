@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-pixel-mini-v01",
+  "name": "Pixel Mini",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Courier New\", monospace",
+  "fontSize": 22,
+  "fontWeight": 700,
+  "letterSpacing": 0.06,
+  "lineHeight": 1.15,
+  "fill": "#ffffff"
+}

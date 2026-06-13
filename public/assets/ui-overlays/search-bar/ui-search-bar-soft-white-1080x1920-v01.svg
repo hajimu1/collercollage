@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<rect x="96" y="150" width="888" height="104" rx="52" fill="rgba(255,255,255,.86)"/><text x="168" y="217" font-family="Inter, Arial, sans-serif" font-size="38" fill="#8e8e8e">today mood</text><circle cx="916" cy="202" r="22" fill="none" stroke="#909090" stroke-width="7"/><path d="M932 218 L954 240" stroke="#909090" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,88 @@
+{
+  "category": "templates",
+  "type": "phone-screenshot",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-phone-screenshot-01-1080x1920-v01",
+      "name": "Phone Screenshot 01",
+      "file": "template-phone-screenshot-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "phone-screenshot",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-phone-screenshot-02-1080x1920-v01",
+      "name": "Phone Screenshot 02",
+      "file": "template-phone-screenshot-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "phone-screenshot",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-phone-screenshot-03-1080x1920-v01",
+      "name": "Phone Screenshot 03",
+      "file": "template-phone-screenshot-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "phone-screenshot",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-phone-screenshot-04-1080x1920-v01",
+      "name": "Phone Screenshot 04",
+      "file": "template-phone-screenshot-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "phone-screenshot",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-phone-screenshot-clean-1080x1920-v01",
+      "name": "Phone Screenshot Clean",
+      "file": "template-phone-screenshot-clean-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-clean-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "phone-screenshot",
+        "template",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "template-phone-screenshot-soft-ui-1080x1920-v01",
+      "name": "Soft Generic Phone Screenshot",
+      "file": "template-phone-screenshot-soft-ui-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-phone-screenshot-soft-ui-1080x1920-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "phone-screenshot",
+        "ui"
+      ]
+    }
+  ]
+}

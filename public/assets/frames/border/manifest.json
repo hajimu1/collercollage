@@ -1,0 +1,57 @@
+{
+  "category": "frames",
+  "type": "border",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-border-double-white-9x16-v01",
+      "name": "Double White Border",
+      "file": "frame-border-double-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "double",
+        "white"
+      ],
+      "preview": "../../previews/frames/frame-border-double-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "frame-border-soft-white-9x16-v01",
+      "name": "Soft White Border",
+      "file": "frame-border-soft-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "border",
+        "white",
+        "soft"
+      ],
+      "preview": "../../previews/frames/frame-border-soft-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "frame-border-thick-white-9x16-v01",
+      "name": "Thick White Border",
+      "file": "frame-border-thick-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "border",
+        "white",
+        "thick"
+      ],
+      "preview": "../../previews/frames/frame-border-thick-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    }
+  ]
+}

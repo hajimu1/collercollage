@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-korean-soft-note-v01",
+  "name": "Korean Soft Note",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Pretendard\", \"Apple SD Gothic Neo\", sans-serif",
+  "fontSize": 26,
+  "fontWeight": 500,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.3,
+  "fill": "#3f3f3f"
+}

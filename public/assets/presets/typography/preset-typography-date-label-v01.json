@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-date-label-v01",
+  "name": "Date Label",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"IBM Plex Mono\", monospace",
+  "fontSize": 24,
+  "fontWeight": 600,
+  "letterSpacing": 0.05,
+  "lineHeight": 1.0,
+  "fill": "#2d2d2d"
+}

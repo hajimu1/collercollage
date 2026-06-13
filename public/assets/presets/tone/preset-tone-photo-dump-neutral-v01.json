@@ -1,0 +1,17 @@
+{
+  "id": "preset-tone-photo-dump-neutral-v01",
+  "name": "Photo Dump Neutral",
+  "category": "tone",
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": -0.04,
+    "saturation": -0.03,
+    "temperature": 0.02,
+    "fade": 0.1
+  },
+  "recommendedOverlays": [],
+  "tags": [
+    "photo-dump",
+    "neutral"
+  ]
+}

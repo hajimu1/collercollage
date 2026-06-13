@@ -1,0 +1,77 @@
+{
+  "category": "masks",
+  "type": "blob",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-blob-soft-rounded-black-1024-v01",
+      "name": "Soft Rounded Blob 1",
+      "file": "mask-blob-soft-rounded-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "blob",
+        "soft",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-blob-soft-rounded-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-blob-soft-rounded-black-1024-v02",
+      "name": "Soft Rounded Blob 2",
+      "file": "mask-blob-soft-rounded-black-1024-v02.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "blob",
+        "soft",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-blob-soft-rounded-black-1024-v02-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-blob-soft-rounded-black-1024-v03",
+      "name": "Soft Rounded Blob 3",
+      "file": "mask-blob-soft-rounded-black-1024-v03.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "blob",
+        "soft",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-blob-soft-rounded-black-1024-v03-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-blob-soft-rounded-black-1024-v04",
+      "name": "Soft Rounded Blob 4",
+      "file": "mask-blob-soft-rounded-black-1024-v04.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "blob",
+        "soft",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-blob-soft-rounded-black-1024-v04-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-blob-soft-rounded-black-1024-v05",
+      "name": "Soft Rounded Blob 5",
+      "file": "mask-blob-soft-rounded-black-1024-v05.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "blob",
+        "soft",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-blob-soft-rounded-black-1024-v05-preview.png",
+      "viewBox": "0 0 1024 1024"
+    }
+  ]
+}

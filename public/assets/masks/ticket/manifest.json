@@ -1,0 +1,46 @@
+{
+  "category": "masks",
+  "type": "ticket",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-ticket-rounded-black-1024-v01",
+      "name": "Rounded Ticket Mask 1",
+      "file": "mask-ticket-rounded-black-1024-v01.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "ticket",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-ticket-rounded-black-1024-v01-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-ticket-rounded-black-1024-v02",
+      "name": "Rounded Ticket Mask 2",
+      "file": "mask-ticket-rounded-black-1024-v02.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "ticket",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-ticket-rounded-black-1024-v02-preview.png",
+      "viewBox": "0 0 1024 1024"
+    },
+    {
+      "id": "mask-ticket-rounded-black-1024-v03",
+      "name": "Rounded Ticket Mask 3",
+      "file": "mask-ticket-rounded-black-1024-v03.svg",
+      "format": "svg",
+      "tags": [
+        "mask",
+        "ticket",
+        "rounded"
+      ],
+      "preview": "../../previews/masks/mask-ticket-rounded-black-1024-v03-preview.png",
+      "viewBox": "0 0 1024 1024"
+    }
+  ]
+}

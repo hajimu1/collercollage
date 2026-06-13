@@ -1,0 +1,17 @@
+{
+  "id": "preset-tone-soft-flash-night-v01",
+  "name": "Soft Flash Night",
+  "category": "tone",
+  "adjustments": {
+    "brightness": 0.11,
+    "contrast": 0.02,
+    "saturation": -0.05,
+    "highlights": 0.15,
+    "shadows": -0.05
+  },
+  "recommendedOverlays": [],
+  "tags": [
+    "flash",
+    "night"
+  ]
+}

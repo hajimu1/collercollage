@@ -1,0 +1,63 @@
+{
+  "category": "overlays",
+  "type": "vignette",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-vignette-cool-blue-soft-transparent-1080x1920-v01",
+      "name": "Overlay Vignette Cool Blue Soft Transparent",
+      "file": "overlay-vignette-cool-blue-soft-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-vignette-cool-blue-soft-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.35,
+      "tags": [
+        "vignette",
+        "soft",
+        "cool-blue"
+      ]
+    },
+    {
+      "id": "overlay-vignette-soft-black-soft-transparent-1080x1920-v01",
+      "name": "Overlay Vignette Soft Black Soft Transparent",
+      "file": "overlay-vignette-soft-black-soft-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-vignette-soft-black-soft-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.35,
+      "tags": [
+        "vignette",
+        "soft",
+        "soft-black"
+      ]
+    },
+    {
+      "id": "overlay-vignette-warm-brown-soft-transparent-1080x1920-v01",
+      "name": "Overlay Vignette Warm Brown Soft Transparent",
+      "file": "overlay-vignette-warm-brown-soft-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-vignette-warm-brown-soft-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.35,
+      "tags": [
+        "vignette",
+        "soft",
+        "warm-brown"
+      ]
+    },
+    {
+      "id": "overlay-vignette-white-fade-soft-transparent-1080x1920-v01",
+      "name": "Overlay Vignette White Fade Soft Transparent",
+      "file": "overlay-vignette-white-fade-soft-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-vignette-white-fade-soft-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.35,
+      "tags": [
+        "vignette",
+        "soft",
+        "white-fade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "preset-style-music-mood-green-diary-v01",
+  "name": "Music Mood Green Diary",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "recommendedTone": "preset-tone-green-diary-v01",
+  "layerDefaults": {
+    "imageBorderRadius": 12,
+    "gap": 18,
+    "backgroundColor": "#dfe8d6"
+  },
+  "recommendedAssets": [
+    "ui-music-card-small-glass-light-1080x1920-v01",
+    "sticker-doodle-heart-handdrawn-white-512-v01"
+  ],
+  "category": "style",
+  "version": 1,
+  "tags": [
+    "style",
+    "preset",
+    "music",
+    "mood",
+    "green",
+    "diary"
+  ]
+}

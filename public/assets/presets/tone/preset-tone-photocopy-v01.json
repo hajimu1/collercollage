@@ -1,0 +1,32 @@
+{
+  "id": "preset-tone-photocopy-v01",
+  "name": "Photocopy",
+  "adjustments": {
+    "brightness": 0.0,
+    "contrast": 0.32,
+    "saturation": -1.0,
+    "temperature": -0.02,
+    "tint": 0.0,
+    "fade": -0.02,
+    "threshold": 0.18
+  },
+  "recommendedOverlays": [
+    {
+      "assetId": "overlay-scratch-hairline-mono-transparent-1080x1920-v01",
+      "blendMode": "difference",
+      "opacity": 0.18
+    },
+    {
+      "assetId": "overlay-paper-fibers-mono-overlay-1080x1920-v01",
+      "blendMode": "overlay",
+      "opacity": 0.3
+    }
+  ],
+  "category": "tone",
+  "version": 1,
+  "tags": [
+    "photocopy",
+    "tone",
+    "preset"
+  ]
+}

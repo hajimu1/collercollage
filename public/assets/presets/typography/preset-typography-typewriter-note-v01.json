@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-typewriter-note-v01",
+  "name": "Typewriter Note",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Courier New\", monospace",
+  "fontSize": 26,
+  "fontWeight": 500,
+  "letterSpacing": 0.02,
+  "lineHeight": 1.28,
+  "fill": "#2e2e2e"
+}

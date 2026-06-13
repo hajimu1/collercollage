@@ -1,0 +1,105 @@
+{
+  "category": "backgrounds",
+  "type": "grid",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-checker-soft-cream-tile512-v01",
+      "name": "Checker Soft Cream",
+      "file": "bg-checker-soft-cream-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-checker-soft-cream-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-dot-light-gray-tile512-v01",
+      "name": "Dot Light Gray",
+      "file": "bg-dot-light-gray-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-dot-light-gray-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-dot-micro-neutral-tile512-v01",
+      "name": "Dot Micro Neutral",
+      "file": "bg-dot-micro-neutral-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-dot-micro-neutral-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-grid-diary-thin-gray-tile512-v01",
+      "name": "Grid Diary Thin Gray",
+      "file": "bg-grid-diary-thin-gray-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-grid-diary-thin-gray-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-grid-light-gray-tile512-v01",
+      "name": "Grid Light Gray",
+      "file": "bg-grid-light-gray-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-grid-light-gray-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-grid-soft-gray-tile512-v01",
+      "name": "Bg Grid Soft Gray",
+      "file": "bg-grid-soft-gray-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-grid-soft-gray-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "pattern",
+        "tile"
+      ]
+    },
+    {
+      "id": "bg-lined-note-blue-tile512-v01",
+      "name": "Lined Note Blue",
+      "file": "bg-lined-note-blue-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-lined-note-blue-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "grid",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "category": "frames",
+  "type": "tape",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-tape-corner-soft-cream-4x5-v01",
+      "name": "Tape Corner Soft",
+      "file": "frame-tape-corner-soft-cream-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-tape-corner-soft-cream-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tape",
+        "frame",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

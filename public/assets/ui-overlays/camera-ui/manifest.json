@@ -1,0 +1,41 @@
+{
+  "category": "ui-overlays",
+  "type": "camera-ui",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-camera-menu-minimal-white-1080x1920-v01",
+      "name": "Minimal White Camera Menu",
+      "file": "ui-camera-menu-minimal-white-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "camera",
+        "generic",
+        "old-phone"
+      ],
+      "preview": "../../previews/ui-overlays/ui-camera-menu-minimal-white-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "ui-camera-menu-oldphone-white-1080x1920-v01",
+      "name": "Old Phone Camera Menu",
+      "file": "ui-camera-menu-oldphone-white-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "camera",
+        "generic",
+        "old-phone"
+      ],
+      "preview": "../../previews/ui-overlays/ui-camera-menu-oldphone-white-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    }
+  ]
+}

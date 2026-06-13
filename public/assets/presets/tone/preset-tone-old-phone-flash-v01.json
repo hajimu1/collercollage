@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-old-phone-flash-v01",
+  "name": "Old Phone Flash",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.06,
+    "contrast": 0.05,
+    "saturation": -0.01,
+    "temperature": 0.01,
+    "tint": 0.0,
+    "fade": 0.07,
+    "highlights": 0.18,
+    "shadows": -0.02
+  }
+}

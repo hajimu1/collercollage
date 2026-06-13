@@ -1,0 +1,49 @@
+{
+  "category": "overlays",
+  "type": "fold-shadow",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-fold-shadow-left-soft-multiply-1080x1920-v01",
+      "name": "Overlay Fold Shadow Left",
+      "file": "overlay-fold-shadow-left-soft-multiply-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-fold-shadow-left-soft-multiply-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "fold-shadow",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-fold-shadow-right-soft-multiply-1080x1920-v01",
+      "name": "Overlay Fold Shadow Right",
+      "file": "overlay-fold-shadow-right-soft-multiply-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-fold-shadow-right-soft-multiply-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "fold-shadow",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-fold-shadow-top-soft-multiply-1080x1920-v01",
+      "name": "Overlay Fold Shadow Top",
+      "file": "overlay-fold-shadow-top-soft-multiply-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-fold-shadow-top-soft-multiply-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "fold-shadow",
+        "overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

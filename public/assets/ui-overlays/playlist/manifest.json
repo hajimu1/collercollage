@@ -1,0 +1,35 @@
+{
+  "category": "ui-overlays",
+  "type": "playlist",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-playlist-card-glass-light-1080x1920-v01",
+      "name": "Playlist Card Glass",
+      "file": "ui-playlist-card-glass-light-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-playlist-card-glass-light-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "playlist",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "ui-playlist-mini-clean-white-1080x1920-v01",
+      "name": "Playlist Mini Clean",
+      "file": "ui-playlist-mini-clean-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-playlist-mini-clean-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "playlist",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-photocopy-soft-v01",
+  "name": "Photocopy Soft",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": 0.08,
+    "saturation": -0.7,
+    "temperature": 0.0,
+    "tint": 0.0,
+    "fade": 0.08,
+    "highlights": 0.02,
+    "shadows": -0.02
+  }
+}

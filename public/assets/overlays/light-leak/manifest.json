@@ -1,0 +1,107 @@
+{
+  "category": "overlays",
+  "type": "light-leak",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-light-leak-bottom-orange-screen-1080x1920-v01",
+      "name": "Bottom Orange Light Leak",
+      "file": "overlay-light-leak-bottom-orange-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "light-leak",
+        "warm",
+        "story",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-light-leak-bottom-orange-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-light-leak-corner-warm-screen-1080x1920-v01",
+      "name": "Warm Corner Light Leak",
+      "file": "overlay-light-leak-corner-warm-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "light-leak",
+        "warm",
+        "story",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-light-leak-corner-warm-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.52,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-light-leak-diagonal-blue-screen-1080x1920-v01",
+      "name": "Blue Diagonal Light Leak",
+      "file": "overlay-light-leak-diagonal-blue-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "light-leak",
+        "warm",
+        "story",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-light-leak-diagonal-blue-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.36,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-light-leak-radial-peach-screen-1080x1920-v01",
+      "name": "Peach Radial Light Leak",
+      "file": "overlay-light-leak-radial-peach-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "light-leak",
+        "warm",
+        "story",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-light-leak-radial-peach-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-light-leak-side-pink-screen-1080x1920-v01",
+      "name": "Pink Side Light Leak",
+      "file": "overlay-light-leak-side-pink-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "light-leak",
+        "warm",
+        "story",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-light-leak-side-pink-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.42,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    }
+  ]
+}

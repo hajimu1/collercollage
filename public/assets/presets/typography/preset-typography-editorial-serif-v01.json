@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-editorial-serif-v01",
+  "name": "Editorial Serif",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Cormorant Garamond\", \"Georgia\", serif",
+  "fontSize": 48,
+  "fontWeight": 600,
+  "letterSpacing": 0.03,
+  "lineHeight": 1.08,
+  "fill": "#ffffff"
+}

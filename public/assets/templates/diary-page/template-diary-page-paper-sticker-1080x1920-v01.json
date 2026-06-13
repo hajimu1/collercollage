@@ -1,0 +1,41 @@
+{
+  "id": "template-diary-page-paper-sticker-1080x1920-v01",
+  "name": "Paper Sticker Diary Page",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "category": "template",
+  "tags": [
+    "diary-page",
+    "paper"
+  ],
+  "layers": [
+    {
+      "type": "background",
+      "assetId": "bg-paper-warm-paper-tile512-v01"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 130,
+      "y": 210,
+      "width": 820,
+      "height": 560,
+      "frame": "frame-handdrawn-border-wobbly-white-9x16-v01"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 100,
+      "y": 900,
+      "width": 380,
+      "height": 520,
+      "mask": "mask-sticker-cutout-wavy-black-1024-v01"
+    },
+    {
+      "type": "text",
+      "text": "write something small",
+      "x": 540,
+      "y": 980
+    }
+  ]
+}

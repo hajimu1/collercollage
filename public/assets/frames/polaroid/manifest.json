@@ -1,0 +1,41 @@
+{
+  "category": "frames",
+  "type": "polaroid",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-polaroid-clean-white-4x5-v01",
+      "name": "Clean White Polaroid",
+      "file": "frame-polaroid-clean-white-4x5-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "polaroid",
+        "white",
+        "paper"
+      ],
+      "preview": "../../previews/frames/frame-polaroid-clean-white-4x5-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "frame-polaroid-stack-white-9x16-v01",
+      "name": "Stacked White Polaroid",
+      "file": "frame-polaroid-stack-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "polaroid",
+        "stack",
+        "white"
+      ],
+      "preview": "../../previews/frames/frame-polaroid-stack-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "template-phone-screenshot-soft-ui-1080x1920-v01",
+  "name": "Soft Generic Phone Screenshot",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "category": "template",
+  "tags": [
+    "phone-screenshot",
+    "ui"
+  ],
+  "layers": [
+    {
+      "type": "background",
+      "fill": "#d9dde8"
+    },
+    {
+      "type": "frame",
+      "assetId": "frame-phone-card-clean-white-9x16-v01"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 150,
+      "y": 300,
+      "width": 780,
+      "height": 900,
+      "radius": 36
+    },
+    {
+      "type": "ui",
+      "assetId": "ui-search-bar-glass-offset-white-1080x1920-v01"
+    },
+    {
+      "type": "ui",
+      "assetId": "ui-bottom-nav-rounded-glass-white-1080x1920-v01"
+    }
+  ]
+}

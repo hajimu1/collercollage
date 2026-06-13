@@ -1,0 +1,12 @@
+{
+  "assetPack": "instagram-story-asset-set-v01-to-v04-integrated",
+  "rootManifest": "public/assets/manifest.json",
+  "counts": {
+    "manifestRegisteredAssets": 444,
+    "previewFiles": 433,
+    "filesInPublicAssets": 966,
+    "subManifestCount": 88,
+    "missingReferenceCount": 0,
+    "duplicateResolutionCount": 8
+  }
+}

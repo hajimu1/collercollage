@@ -1,0 +1,20 @@
+{
+  "category": "frames",
+  "type": "postage",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-postage-stamp-white-square-v01",
+      "name": "Frame Postage Stamp White Square",
+      "file": "frame-postage-stamp-white-square-v01.svg",
+      "preview": "../../previews/frames/frame-postage-stamp-white-square-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "frame",
+        "postage"
+      ]
+    }
+  ]
+}

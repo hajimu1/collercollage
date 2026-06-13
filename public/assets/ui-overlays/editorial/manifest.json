@@ -1,0 +1,35 @@
+{
+  "category": "ui-overlays",
+  "type": "editorial",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-editorial-page-number-white-1080x1920-v01",
+      "name": "Editorial Page Number",
+      "file": "ui-editorial-page-number-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-editorial-page-number-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "editorial",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-editorial-title-block-white-1080x1920-v01",
+      "name": "Editorial Title Block",
+      "file": "ui-editorial-title-block-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-editorial-title-block-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "editorial",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

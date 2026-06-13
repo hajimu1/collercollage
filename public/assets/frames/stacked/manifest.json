@@ -1,0 +1,35 @@
+{
+  "category": "frames",
+  "type": "stacked",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-layered-paper-soft-cream-4x5-v01",
+      "name": "Layered Paper Soft",
+      "file": "frame-layered-paper-soft-cream-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-layered-paper-soft-cream-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "stacked",
+        "frame",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "frame-stacked-polaroid-paper-white-4x5-v01",
+      "name": "Stacked Polaroid",
+      "file": "frame-stacked-polaroid-paper-white-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-stacked-polaroid-paper-white-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "stacked",
+        "frame",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

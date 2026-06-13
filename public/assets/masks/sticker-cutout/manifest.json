@@ -1,0 +1,63 @@
+{
+  "category": "masks",
+  "type": "sticker-cutout",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-sticker-cutout-wavy-black-1024-v01",
+      "name": "Mask Sticker Cutout Wavy Black",
+      "file": "mask-sticker-cutout-wavy-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-sticker-cutout-wavy-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "mask",
+        "sticker",
+        "wavy"
+      ]
+    },
+    {
+      "id": "mask-sticker-cutout-wavy-black-1024-v02",
+      "name": "Mask Sticker Cutout Wavy Black",
+      "file": "mask-sticker-cutout-wavy-black-1024-v02.svg",
+      "preview": "../../previews/masks/mask-sticker-cutout-wavy-black-1024-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "mask",
+        "sticker",
+        "wavy"
+      ]
+    },
+    {
+      "id": "mask-sticker-cutout-wavy-black-1024-v03",
+      "name": "Mask Sticker Cutout Wavy Black",
+      "file": "mask-sticker-cutout-wavy-black-1024-v03.svg",
+      "preview": "../../previews/masks/mask-sticker-cutout-wavy-black-1024-v03-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "mask",
+        "sticker",
+        "wavy"
+      ]
+    },
+    {
+      "id": "mask-sticker-cutout-wavy-black-1024-v04",
+      "name": "Mask Sticker Cutout Wavy Black",
+      "file": "mask-sticker-cutout-wavy-black-1024-v04.svg",
+      "preview": "../../previews/masks/mask-sticker-cutout-wavy-black-1024-v04-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "mask",
+        "sticker",
+        "wavy"
+      ]
+    }
+  ]
+}

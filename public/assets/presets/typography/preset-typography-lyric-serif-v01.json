@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-lyric-serif-v01",
+  "name": "Lyric Serif",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Cormorant Garamond\", \"Times New Roman\", serif",
+  "fontSize": 34,
+  "fontWeight": 600,
+  "letterSpacing": 0.02,
+  "lineHeight": 1.24,
+  "fill": "#ffffff"
+}

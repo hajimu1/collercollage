@@ -1,0 +1,63 @@
+{
+  "category": "overlays",
+  "type": "photocopy",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-copy-speckle-white-screen-1080x1920-v01",
+      "name": "Overlay Copy Speckle",
+      "file": "overlay-copy-speckle-white-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-copy-speckle-white-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "photocopy",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-halftone-dot-white-screen-1080x1920-v01",
+      "name": "Overlay Halftone Dot",
+      "file": "overlay-halftone-dot-white-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-halftone-dot-white-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "photocopy",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-photocopy-heavy-mono-overlay-1080x1920-v01",
+      "name": "Overlay Photocopy Heavy",
+      "file": "overlay-photocopy-heavy-mono-overlay-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-photocopy-heavy-mono-overlay-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.24,
+      "tags": [
+        "photocopy",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-photocopy-soft-mono-overlay-1080x1920-v01",
+      "name": "Overlay Photocopy Soft",
+      "file": "overlay-photocopy-soft-mono-overlay-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-photocopy-soft-mono-overlay-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.24,
+      "tags": [
+        "photocopy",
+        "overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

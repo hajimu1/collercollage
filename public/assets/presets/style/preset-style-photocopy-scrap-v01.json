@@ -1,0 +1,14 @@
+{
+  "id": "preset-style-photocopy-scrap-v01",
+  "name": "Photocopy Scrap",
+  "category": "style",
+  "tags": [
+    "photocopy",
+    "scrapbook"
+  ],
+  "components": [
+    "scan",
+    "paper",
+    "black-border"
+  ]
+}

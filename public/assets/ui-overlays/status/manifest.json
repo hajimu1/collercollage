@@ -1,0 +1,21 @@
+{
+  "category": "ui-overlays",
+  "type": "status",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-battery-status-generic-white-1080x1920-v01",
+      "name": "Battery Status Generic",
+      "file": "ui-battery-status-generic-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-battery-status-generic-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "status",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

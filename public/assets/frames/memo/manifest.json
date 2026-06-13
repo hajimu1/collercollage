@@ -1,0 +1,49 @@
+{
+  "category": "frames",
+  "type": "memo",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-index-card-soft-cream-4x5-v01",
+      "name": "Index Card Soft",
+      "file": "frame-index-card-soft-cream-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-index-card-soft-cream-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "memo",
+        "frame",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "frame-memo-card-clean-white-4x5-v01",
+      "name": "Memo Card Clean",
+      "file": "frame-memo-card-clean-white-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-memo-card-clean-white-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "memo",
+        "frame",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "frame-torn-note-rough-cream-4x5-v01",
+      "name": "Torn Note Rough",
+      "file": "frame-torn-note-rough-cream-4x5-v01.svg",
+      "preview": "../../previews/frames/frame-torn-note-rough-cream-4x5-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "memo",
+        "frame",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

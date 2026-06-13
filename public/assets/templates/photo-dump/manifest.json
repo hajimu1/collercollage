@@ -1,0 +1,200 @@
+{
+  "category": "templates",
+  "type": "photo-dump",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-film-contact-sheet-1080x1920-v01",
+      "name": "Film Contact Sheet",
+      "file": "template-film-contact-sheet-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-film-contact-sheet-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "template-photo-dump-01-1080x1920-v01",
+      "name": "Photo Dump 01",
+      "file": "template-photo-dump-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-02-1080x1920-v01",
+      "name": "Photo Dump 02",
+      "file": "template-photo-dump-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-03-1080x1920-v01",
+      "name": "Photo Dump 03",
+      "file": "template-photo-dump-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-04-1080x1920-v01",
+      "name": "Photo Dump 04",
+      "file": "template-photo-dump-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-05-1080x1920-v01",
+      "name": "Photo Dump 05",
+      "file": "template-photo-dump-05-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-05-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-06-1080x1920-v01",
+      "name": "Photo Dump 06",
+      "file": "template-photo-dump-06-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-06-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-07-1080x1920-v01",
+      "name": "Photo Dump 07",
+      "file": "template-photo-dump-07-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-07-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-08-1080x1920-v01",
+      "name": "Photo Dump 08",
+      "file": "template-photo-dump-08-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-08-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-09-1080x1920-v01",
+      "name": "Photo Dump 09",
+      "file": "template-photo-dump-09-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-09-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-10-1080x1920-v01",
+      "name": "Photo Dump 10",
+      "file": "template-photo-dump-10-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-10-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-photo-dump-corner-tape-1080x1920-v01",
+      "name": "Photo Dump Corner Tape",
+      "file": "template-photo-dump-corner-tape-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-corner-tape-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "template-photo-dump-grid-soft-neutral-1080x1920-v01",
+      "name": "Soft Neutral Photo Dump",
+      "file": "template-photo-dump-grid-soft-neutral-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-grid-soft-neutral-1080x1920-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "photo-dump",
+        "soft"
+      ]
+    },
+    {
+      "id": "template-photo-dump-layered-1080x1920-v01",
+      "name": "Photo Dump Layered",
+      "file": "template-photo-dump-layered-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-photo-dump-layered-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "photo-dump",
+        "template",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "template-scrapbook-postage-warm-1080x1920-v01",
+  "name": "Warm Postage Scrapbook",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "category": "template",
+  "tags": [
+    "scrapbook",
+    "postage"
+  ],
+  "layers": [
+    {
+      "type": "background",
+      "fill": "#efe3d1"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 110,
+      "y": 210,
+      "width": 420,
+      "height": 420,
+      "frame": "frame-postage-stamp-white-square-v01"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 510,
+      "y": 610,
+      "width": 420,
+      "height": 560,
+      "frame": "frame-receipt-paper-cream-vertical-v01"
+    },
+    {
+      "type": "sticker",
+      "assetId": "sticker-y2k-bubble-heart-pink-512-v01",
+      "x": 90,
+      "y": 1120,
+      "size": 180
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "preset-tone-dreamy-glow-v01",
+  "name": "Dreamy Glow",
+  "category": "tone",
+  "adjustments": {
+    "brightness": 0.08,
+    "contrast": -0.1,
+    "saturation": -0.04,
+    "temperature": 0.04,
+    "bloom": 0.18,
+    "fade": 0.12
+  },
+  "recommendedOverlays": [],
+  "tags": [
+    "dreamy",
+    "glow"
+  ]
+}

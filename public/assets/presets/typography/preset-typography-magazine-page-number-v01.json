@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-magazine-page-number-v01",
+  "name": "Magazine Page Number",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Arial\", sans-serif",
+  "fontSize": 32,
+  "fontWeight": 700,
+  "letterSpacing": 0.06,
+  "lineHeight": 1.0,
+  "fill": "#ffffff"
+}

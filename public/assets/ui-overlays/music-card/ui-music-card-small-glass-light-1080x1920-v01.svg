@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<rect x="84" y="1490" width="712" height="142" rx="34" fill="rgba(255,255,255,.62)" stroke="rgba(255,255,255,.72)"/><rect x="118" y="1522" width="78" height="78" rx="18" fill="rgba(255,255,255,.82)"/><circle cx="157" cy="1561" r="22" fill="none" stroke="#111" stroke-width="6" opacity=".55"/><text x="226" y="1555" font-family="Inter, Arial, sans-serif" font-size="34" fill="#fff">track title</text><text x="226" y="1596" font-family="Inter, Arial, sans-serif" font-size="24" fill="#fff" opacity=".72">artist name</text>
+</svg>

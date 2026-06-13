@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-timestamp-mono-v01",
+  "name": "Timestamp Mono",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"IBM Plex Mono\", \"Courier New\", monospace",
+  "fontSize": 30,
+  "fontWeight": 500,
+  "letterSpacing": 0.04,
+  "lineHeight": 1.15,
+  "fill": "#ffffff"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "preset-tone-paper-scan-v01",
+  "name": "Paper Scan",
+  "category": "tone",
+  "adjustments": {
+    "brightness": 0.06,
+    "contrast": 0.1,
+    "saturation": -0.3,
+    "temperature": 0.08,
+    "fade": 0.06
+  },
+  "recommendedOverlays": [],
+  "tags": [
+    "paper",
+    "scan"
+  ]
+}

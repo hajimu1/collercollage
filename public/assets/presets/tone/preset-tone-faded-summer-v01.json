@@ -1,0 +1,29 @@
+{
+  "id": "preset-tone-faded-summer-v01",
+  "name": "Faded Summer",
+  "adjustments": {
+    "brightness": 0.07,
+    "contrast": -0.12,
+    "saturation": -0.02,
+    "temperature": 0.12,
+    "tint": -0.01,
+    "fade": 0.22,
+    "highlights": 0.1,
+    "shadows": 0.02
+  },
+  "recommendedOverlays": [
+    {
+      "assetId": "overlay-light-leak-corner-warm-screen-1080x1920-v01",
+      "blendMode": "screen",
+      "opacity": 0.32
+    }
+  ],
+  "category": "tone",
+  "version": 1,
+  "tags": [
+    "faded",
+    "summer",
+    "tone",
+    "preset"
+  ]
+}

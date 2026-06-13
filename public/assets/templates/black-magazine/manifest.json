@@ -1,0 +1,91 @@
+{
+  "category": "templates",
+  "type": "black-magazine",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-black-magazine-01-1080x1920-v01",
+      "name": "Black Magazine 01",
+      "file": "template-black-magazine-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-black-magazine-02-1080x1920-v01",
+      "name": "Black Magazine 02",
+      "file": "template-black-magazine-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-black-magazine-03-1080x1920-v01",
+      "name": "Black Magazine 03",
+      "file": "template-black-magazine-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-black-magazine-04-1080x1920-v01",
+      "name": "Black Magazine 04",
+      "file": "template-black-magazine-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-black-magazine-05-1080x1920-v01",
+      "name": "Black Magazine 05",
+      "file": "template-black-magazine-05-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-05-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-black-magazine-06-1080x1920-v01",
+      "name": "Black Magazine 06",
+      "file": "template-black-magazine-06-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-black-magazine-06-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "black-magazine",
+        "template",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

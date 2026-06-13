@@ -1,0 +1,21 @@
+{
+  "category": "templates",
+  "type": "editorial",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-editorial-bw-1080x1920-v01",
+      "name": "Editorial BW",
+      "file": "template-editorial-bw-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-editorial-bw-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "editorial",
+        "template",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

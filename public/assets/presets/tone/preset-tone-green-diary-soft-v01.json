@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-green-diary-soft-v01",
+  "name": "Green Diary Soft",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.02,
+    "contrast": -0.04,
+    "saturation": -0.02,
+    "temperature": -0.01,
+    "tint": -0.02,
+    "fade": 0.12,
+    "highlights": 0.05,
+    "shadows": 0.09
+  }
+}

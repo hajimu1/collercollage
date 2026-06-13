@@ -1,0 +1,249 @@
+{
+  "category": "presets",
+  "type": "style",
+  "version": 1,
+  "items": [
+    {
+      "id": "preset-style-black-magazine-v01",
+      "name": "Black Magazine",
+      "file": "preset-style-black-magazine-v01.json",
+      "preview": "../../previews/presets/preset-style-black-magazine-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-clean-story-minimal-v01",
+      "name": "Clean Story Minimal",
+      "file": "preset-style-clean-story-minimal-v01.json",
+      "preview": "../../previews/presets/preset-style-clean-story-minimal-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-style-green-diary-v01",
+      "name": "Green Diary",
+      "file": "preset-style-green-diary-v01.json",
+      "preview": "../../previews/presets/preset-style-green-diary-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-japanese-memory-v01",
+      "name": "Japanese Memory",
+      "file": "preset-style-japanese-memory-v01.json",
+      "preview": "../../previews/presets/preset-style-japanese-memory-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-korean-minimal-story-v01",
+      "name": "Korean Minimal Story",
+      "file": "preset-style-korean-minimal-story-v01.json",
+      "preview": "../../previews/presets/preset-style-korean-minimal-story-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-layered-scrapbook-v01",
+      "name": "Layered Scrapbook",
+      "file": "preset-style-layered-scrapbook-v01.json",
+      "preview": "../../previews/presets/preset-style-layered-scrapbook-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-style-music-cd-board-v01",
+      "name": "Music CD Board",
+      "file": "preset-style-music-cd-board-v01.json",
+      "preview": "../../previews/presets/preset-style-music-cd-board-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "music",
+        "cd"
+      ]
+    },
+    {
+      "id": "preset-style-music-mood-green-diary-v01",
+      "name": "Music Mood Green Diary",
+      "file": "preset-style-music-mood-green-diary-v01.json",
+      "format": "json",
+      "tags": [
+        "style",
+        "preset",
+        "music",
+        "mood",
+        "green",
+        "diary"
+      ]
+    },
+    {
+      "id": "preset-style-music-mood-v01",
+      "name": "Music Mood",
+      "file": "preset-style-music-mood-v01.json",
+      "preview": "../../previews/presets/preset-style-music-mood-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-night-haze-v01",
+      "name": "Night Haze",
+      "file": "preset-style-night-haze-v01.json",
+      "preview": "../../previews/presets/preset-style-night-haze-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-phone-screenshot-v01",
+      "name": "Phone Screenshot",
+      "file": "preset-style-phone-screenshot-v01.json",
+      "preview": "../../previews/presets/preset-style-phone-screenshot-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-photocopy-scrap-v01",
+      "name": "Photocopy Scrap",
+      "file": "preset-style-photocopy-scrap-v01.json",
+      "preview": "../../previews/presets/preset-style-photocopy-scrap-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "photocopy",
+        "scrapbook"
+      ]
+    },
+    {
+      "id": "preset-style-scrapbook-paper-v01",
+      "name": "Scrapbook Paper",
+      "file": "preset-style-scrapbook-paper-v01.json",
+      "preview": "../../previews/presets/preset-style-scrapbook-paper-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-soft-film-story-v01",
+      "name": "Soft Film Story",
+      "file": "preset-style-soft-film-story-v01.json",
+      "preview": "../../previews/presets/preset-style-soft-film-story-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-style-soft-phone-diary-v01",
+      "name": "Soft Phone Diary",
+      "file": "preset-style-soft-phone-diary-v01.json",
+      "preview": "../../previews/presets/preset-style-soft-phone-diary-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "phone",
+        "diary"
+      ]
+    },
+    {
+      "id": "preset-style-soft-photo-dump-v01",
+      "name": "Soft Photo Dump",
+      "file": "preset-style-soft-photo-dump-v01.json",
+      "format": "json",
+      "tags": [
+        "style",
+        "preset",
+        "soft",
+        "photo",
+        "dump"
+      ]
+    },
+    {
+      "id": "preset-style-sticker-board-v01",
+      "name": "Sticker Board",
+      "file": "preset-style-sticker-board-v01.json",
+      "preview": "../../previews/presets/preset-style-sticker-board-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-style-y2k-clean-v01",
+      "name": "Y2K Clean",
+      "file": "preset-style-y2k-clean-v01.json",
+      "preview": "../../previews/presets/preset-style-y2k-clean-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "style",
+        "preset",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

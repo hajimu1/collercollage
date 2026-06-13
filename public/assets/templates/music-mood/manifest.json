@@ -1,0 +1,116 @@
+{
+  "category": "templates",
+  "type": "music-mood",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-music-mood-01-1080x1920-v01",
+      "name": "Music Mood 01",
+      "file": "template-music-mood-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-02-1080x1920-v01",
+      "name": "Music Mood 02",
+      "file": "template-music-mood-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-03-1080x1920-v01",
+      "name": "Music Mood 03",
+      "file": "template-music-mood-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-04-1080x1920-v01",
+      "name": "Music Mood 04",
+      "file": "template-music-mood-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-05-1080x1920-v01",
+      "name": "Music Mood 05",
+      "file": "template-music-mood-05-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-05-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-06-1080x1920-v01",
+      "name": "Music Mood 06",
+      "file": "template-music-mood-06-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-06-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-music-mood-cd-green-1080x1920-v01",
+      "name": "Green CD Music Mood",
+      "file": "template-music-mood-cd-green-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-cd-green-1080x1920-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "music-mood",
+        "green"
+      ]
+    },
+    {
+      "id": "template-music-mood-playlist-1080x1920-v01",
+      "name": "Music Mood Playlist",
+      "file": "template-music-mood-playlist-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-music-mood-playlist-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music-mood",
+        "template",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

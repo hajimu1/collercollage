@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<rect x="92" y="1180" width="710" height="208" rx="20" fill="#fbf1dc"/><text x="136" y="1246" font-family="Georgia, serif" font-size="35" fill="#6a5d4e">song for today</text><text x="136" y="1298" font-family="Inter, Arial, sans-serif" font-size="28" fill="#9b8b78">replace this lyric</text><path d="M654 1232 C704 1232 738 1264 738 1310 C738 1356 704 1388 654 1388 C604 1388 570 1356 570 1310 C570 1264 604 1232 654 1232 Z" fill="none" stroke="#b7a58d" stroke-width="5"/>
+</svg>

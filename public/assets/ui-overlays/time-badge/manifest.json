@@ -1,0 +1,46 @@
+{
+  "category": "ui-overlays",
+  "type": "time-badge",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-time-badge-pill-white-512-v01",
+      "name": "Ui Time Badge Pill White",
+      "file": "ui-time-badge-pill-white-512-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-time-badge-pill-white-512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "time-badge"
+      ]
+    },
+    {
+      "id": "ui-time-badge-pill-white-512-v02",
+      "name": "Ui Time Badge Pill White",
+      "file": "ui-time-badge-pill-white-512-v02.svg",
+      "preview": "../../previews/ui-overlays/ui-time-badge-pill-white-512-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "time-badge"
+      ]
+    },
+    {
+      "id": "ui-time-badge-pill-white-512-v03",
+      "name": "Ui Time Badge Pill White",
+      "file": "ui-time-badge-pill-white-512-v03.svg",
+      "preview": "../../previews/ui-overlays/ui-time-badge-pill-white-512-v03-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "time-badge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "preset-tone-dreamy-pink-v01",
+  "name": "Dreamy Pink",
+  "category": "tone",
+  "tags": [
+    "tone",
+    "v04"
+  ],
+  "adjustments": {
+    "brightness": 0.04,
+    "contrast": -0.06,
+    "saturation": 0.02,
+    "temperature": 0.02,
+    "tint": 0.06,
+    "fade": 0.16,
+    "highlights": 0.08,
+    "shadows": 0.08
+  }
+}

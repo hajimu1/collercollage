@@ -1,0 +1,91 @@
+{
+  "id": "template-scrapbook-06-1080x1920-v01",
+  "name": "Scrapbook 06",
+  "category": "template",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "backgroundAssetId": "bg-paper-muted-pink-1080x1920-v01",
+  "elements": [
+    {
+      "type": "image-placeholder",
+      "id": "photo-1",
+      "x": 94,
+      "y": 162,
+      "width": 398,
+      "height": 518,
+      "rotation": -4,
+      "shape": "rect-rounded"
+    },
+    {
+      "type": "image-placeholder",
+      "id": "photo-2",
+      "x": 548,
+      "y": 228,
+      "width": 338,
+      "height": 414,
+      "rotation": 5,
+      "shape": "rect-rounded"
+    },
+    {
+      "type": "image-placeholder",
+      "id": "photo-3",
+      "x": 204,
+      "y": 756,
+      "width": 540,
+      "height": 412,
+      "rotation": -2,
+      "shape": "rect-rounded"
+    },
+    {
+      "type": "text-placeholder",
+      "id": "caption-1",
+      "text": "your caption here",
+      "x": 118,
+      "y": 1298,
+      "width": 780,
+      "stylePresetId": "preset-typography-typewriter-note-v01"
+    },
+    {
+      "type": "sticker-asset",
+      "assetId": "sticker-text-caption-mood-512-v01",
+      "x": 120,
+      "y": 118,
+      "width": 280,
+      "height": 78
+    },
+    {
+      "type": "ui-overlay",
+      "assetId": "ui-note-quote-box-white-1080x1920-v01",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "type": "sticker-asset",
+      "assetId": "sticker-tape-cross-gray-512-v01",
+      "x": 148,
+      "y": 140,
+      "width": 188,
+      "height": 88,
+      "rotation": -8
+    },
+    {
+      "type": "sticker-asset",
+      "assetId": "sticker-paper-scrap-about-today-cream-512-v01",
+      "x": 764,
+      "y": 780,
+      "width": 204,
+      "height": 204,
+      "rotation": 6
+    }
+  ],
+  "suggestedTonePresetId": "preset-tone-sunset-milk-v01",
+  "tags": [
+    "scrapbook",
+    "story",
+    "v04"
+  ]
+}

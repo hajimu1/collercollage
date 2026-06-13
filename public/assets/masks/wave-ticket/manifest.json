@@ -1,0 +1,21 @@
+{
+  "category": "masks",
+  "type": "wave-ticket",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-wave-ticket-soft-black-1024-v01",
+      "name": "Wave Ticket",
+      "file": "mask-wave-ticket-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-wave-ticket-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "wave-ticket",
+        "mask",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

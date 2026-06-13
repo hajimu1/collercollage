@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-magazine-kicker-v01",
+  "name": "Magazine Kicker",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Arial\", sans-serif",
+  "fontSize": 20,
+  "fontWeight": 700,
+  "letterSpacing": 0.12,
+  "lineHeight": 1.0,
+  "fill": "#ffffff"
+}

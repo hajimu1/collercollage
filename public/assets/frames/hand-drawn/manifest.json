@@ -1,0 +1,83 @@
+{
+  "category": "frames",
+  "type": "hand-drawn",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-handdrawn-border-rough-white-9x16-v01",
+      "name": "Rough Hand-drawn White Border",
+      "file": "frame-handdrawn-border-rough-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "handdrawn",
+        "rough",
+        "white"
+      ],
+      "preview": "../../previews/frames/frame-handdrawn-border-rough-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "frame-handdrawn-border-wobbly-white-9x16-v01",
+      "name": "Frame Handdrawn Border Wobbly White 9x16",
+      "file": "frame-handdrawn-border-wobbly-white-9x16-v01.svg",
+      "preview": "../../previews/frames/frame-handdrawn-border-wobbly-white-9x16-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "handdrawn",
+        "border",
+        "wobbly"
+      ]
+    },
+    {
+      "id": "frame-handdrawn-border-wobbly-white-9x16-v02",
+      "name": "Frame Handdrawn Border Wobbly White 9x16",
+      "file": "frame-handdrawn-border-wobbly-white-9x16-v02.svg",
+      "preview": "../../previews/frames/frame-handdrawn-border-wobbly-white-9x16-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "handdrawn",
+        "border",
+        "wobbly"
+      ]
+    },
+    {
+      "id": "frame-handdrawn-border-wobbly-white-9x16-v03",
+      "name": "Frame Handdrawn Border Wobbly White 9x16",
+      "file": "frame-handdrawn-border-wobbly-white-9x16-v03.svg",
+      "preview": "../../previews/frames/frame-handdrawn-border-wobbly-white-9x16-v03-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "handdrawn",
+        "border",
+        "wobbly"
+      ]
+    },
+    {
+      "id": "frame-handdrawn-dashed-white-9x16-v01",
+      "name": "Hand-drawn Dashed White Border",
+      "file": "frame-handdrawn-dashed-white-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "handdrawn",
+        "dashed",
+        "white"
+      ],
+      "preview": "../../previews/frames/frame-handdrawn-dashed-white-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    }
+  ]
+}

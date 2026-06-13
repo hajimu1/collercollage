@@ -1,0 +1,20 @@
+{
+  "category": "frames",
+  "type": "phone-card",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-phone-card-clean-white-9x16-v01",
+      "name": "Frame Phone Card Clean White 9x16",
+      "file": "frame-phone-card-clean-white-9x16-v01.svg",
+      "preview": "../../previews/frames/frame-phone-card-clean-white-9x16-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "frame",
+        "phone-card"
+      ]
+    }
+  ]
+}

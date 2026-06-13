@@ -1,0 +1,14 @@
+{
+  "id": "preset-typography-soft-diary-note-v01",
+  "name": "Soft Diary Note",
+  "category": "typography",
+  "fontFamily": "\"Comic Sans MS\", \"Nanum Pen Script\", cursive",
+  "fontSize": 38,
+  "fontWeight": 400,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.15,
+  "fill": "#ffffff",
+  "tags": [
+    "typography"
+  ]
+}

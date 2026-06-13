@@ -1,0 +1,147 @@
+{
+  "category": "backgrounds",
+  "type": "paper",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-paper-cream-scan-tile512-v01",
+      "name": "Bg Paper Cream Scan",
+      "file": "bg-paper-cream-scan-tile512-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-cream-scan-tile512-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "tile",
+        "cream-scan"
+      ]
+    },
+    {
+      "id": "bg-paper-diary-cream-1080x1920-v01",
+      "name": "Diary Cream",
+      "file": "bg-paper-diary-cream-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-diary-cream-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-paper-folded-cream-1080x1920-v01",
+      "name": "Paper Folded Cream",
+      "file": "bg-paper-folded-cream-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-folded-cream-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-paper-gray-paper-tile512-v01",
+      "name": "Bg Paper Gray Paper",
+      "file": "bg-paper-gray-paper-tile512-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-gray-paper-tile512-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "tile",
+        "gray-paper"
+      ]
+    },
+    {
+      "id": "bg-paper-muted-pink-1080x1920-v01",
+      "name": "Muted Pink",
+      "file": "bg-paper-muted-pink-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-muted-pink-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-paper-rose-paper-tile512-v01",
+      "name": "Bg Paper Rose Paper",
+      "file": "bg-paper-rose-paper-tile512-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-rose-paper-tile512-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "tile",
+        "rose-paper"
+      ]
+    },
+    {
+      "id": "bg-paper-soft-green-1080x1920-v01",
+      "name": "Soft Green",
+      "file": "bg-paper-soft-green-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-soft-green-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-paper-soft-ivory-1080x1920-v01",
+      "name": "Soft Ivory",
+      "file": "bg-paper-soft-ivory-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-soft-ivory-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-paper-soft-warm-tile512-v01",
+      "name": "Paper Soft Warm Tile",
+      "file": "bg-paper-soft-warm-tile512-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-soft-warm-tile512-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-paper-warm-paper-tile512-v01",
+      "name": "Bg Paper Warm Paper",
+      "file": "bg-paper-warm-paper-tile512-v01.png",
+      "preview": "../../previews/backgrounds/bg-paper-warm-paper-tile512-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "paper",
+        "tile",
+        "warm-paper"
+      ]
+    }
+  ]
+}

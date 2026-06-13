@@ -1,0 +1,61 @@
+{
+  "category": "ui-overlays",
+  "type": "music-card",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-music-card-black-minimal-1080x1920-v01",
+      "name": "Black Minimal Music Card",
+      "file": "ui-music-card-black-minimal-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "music-card",
+        "generic",
+        "playlist"
+      ],
+      "preview": "../../previews/ui-overlays/ui-music-card-black-minimal-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    },
+    {
+      "id": "ui-music-card-paper-cream-1080x1920-v01",
+      "name": "Paper Cream Music Card",
+      "file": "ui-music-card-paper-cream-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "music-card",
+        "generic",
+        "playlist"
+      ],
+      "preview": "../../previews/ui-overlays/ui-music-card-paper-cream-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    },
+    {
+      "id": "ui-music-card-small-glass-light-1080x1920-v01",
+      "name": "Small Glass Music Card",
+      "file": "ui-music-card-small-glass-light-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "music-card",
+        "generic",
+        "playlist"
+      ],
+      "preview": "../../previews/ui-overlays/ui-music-card-small-glass-light-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    }
+  ]
+}

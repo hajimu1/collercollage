@@ -1,0 +1,28 @@
+{
+  "id": "preset-style-soft-photo-dump-v01",
+  "name": "Soft Photo Dump",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "recommendedTone": "preset-tone-soft-film-v01",
+  "layerDefaults": {
+    "imageBorderRadius": 28,
+    "gap": 24,
+    "backgroundColor": "#f4efe7"
+  },
+  "recommendedAssets": [
+    "overlay-grain-fine-mono-neutral-1080x1920-v01",
+    "sticker-sparkle-cluster-soft-white-512-v01",
+    "frame-polaroid-clean-white-4x5-v01"
+  ],
+  "category": "style",
+  "version": 1,
+  "tags": [
+    "style",
+    "preset",
+    "soft",
+    "photo",
+    "dump"
+  ]
+}

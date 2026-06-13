@@ -1,0 +1,103 @@
+{
+  "category": "overlays",
+  "type": "dust",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-dust-edge-white-transparent-1080x1920-v01",
+      "name": "Overlay Dust Edge White Transparent",
+      "file": "overlay-dust-edge-white-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-dust-edge-white-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "dust",
+        "edge",
+        "film"
+      ]
+    },
+    {
+      "id": "overlay-dust-flash-dust-white-transparent-1080x1920-v01",
+      "name": "Overlay Dust Flash Dust White Transparent",
+      "file": "overlay-dust-flash-dust-white-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-dust-flash-dust-white-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "dust",
+        "flash-dust",
+        "film"
+      ]
+    },
+    {
+      "id": "overlay-dust-hairline-white-transparent-1080x1920-v01",
+      "name": "Overlay Dust Hairline White Transparent",
+      "file": "overlay-dust-hairline-white-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-dust-hairline-white-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "dust",
+        "hairline",
+        "film"
+      ]
+    },
+    {
+      "id": "overlay-dust-scattered-white-transparent-1080x1920-v01",
+      "name": "Scattered White Dust",
+      "file": "overlay-dust-scattered-white-transparent-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "dust",
+        "white",
+        "film",
+        "screen"
+      ],
+      "preview": "../../previews/overlays/overlay-dust-scattered-white-transparent-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.48,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-dust-sparse-black-transparent-1080x1920-v01",
+      "name": "Sparse Black Dust",
+      "file": "overlay-dust-sparse-black-transparent-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "dust",
+        "black",
+        "film",
+        "multiply"
+      ],
+      "preview": "../../previews/overlays/overlay-dust-sparse-black-transparent-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.3,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-dust-tiny-white-transparent-1080x1920-v01",
+      "name": "Overlay Dust Tiny White Transparent",
+      "file": "overlay-dust-tiny-white-transparent-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-dust-tiny-white-transparent-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "dust",
+        "tiny",
+        "film"
+      ]
+    }
+  ]
+}

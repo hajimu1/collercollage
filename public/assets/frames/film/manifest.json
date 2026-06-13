@@ -1,0 +1,52 @@
+{
+  "category": "frames",
+  "type": "film",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-film-strip-black-vertical-9x16-v01",
+      "name": "Frame Film Strip Black Vertical 9x16",
+      "file": "frame-film-strip-black-vertical-9x16-v01.svg",
+      "preview": "../../previews/frames/frame-film-strip-black-vertical-9x16-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "film",
+        "strip",
+        "black"
+      ]
+    },
+    {
+      "id": "frame-film-strip-white-contact-9x16-v01",
+      "name": "White Contact Sheet Frame",
+      "file": "frame-film-strip-white-contact-9x16-v01.svg",
+      "format": "svg",
+      "tags": [
+        "frame",
+        "film",
+        "contact-sheet",
+        "white"
+      ],
+      "preview": "../../previews/frames/frame-film-strip-white-contact-9x16-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "frame-film-strip-white-vertical-9x16-v02",
+      "name": "Frame Film Strip White Vertical 9x16",
+      "file": "frame-film-strip-white-vertical-9x16-v02.svg",
+      "preview": "../../previews/frames/frame-film-strip-white-vertical-9x16-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "film",
+        "strip",
+        "white"
+      ]
+    }
+  ]
+}

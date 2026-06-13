@@ -1,0 +1,49 @@
+{
+  "category": "overlays",
+  "type": "flash",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-flash-burst-center-white-screen-1080x1920-v01",
+      "name": "Overlay Flash Burst Center",
+      "file": "overlay-flash-burst-center-white-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-flash-burst-center-white-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "flash",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-flash-burst-top-white-screen-1080x1920-v01",
+      "name": "Overlay Flash Burst Top",
+      "file": "overlay-flash-burst-top-white-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-flash-burst-top-white-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "flash",
+        "overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "overlay-glow-side-pink-screen-1080x1920-v01",
+      "name": "Overlay Glow Side Pink",
+      "file": "overlay-glow-side-pink-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-side-pink-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.38,
+      "tags": [
+        "flash",
+        "overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

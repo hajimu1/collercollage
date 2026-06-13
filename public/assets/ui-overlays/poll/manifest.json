@@ -1,0 +1,35 @@
+{
+  "category": "ui-overlays",
+  "type": "poll",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-poll-card-rounded-white-1080x1920-v01",
+      "name": "Poll Card Rounded",
+      "file": "ui-poll-card-rounded-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-poll-card-rounded-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "poll",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "ui-slider-card-rounded-white-1080x1920-v01",
+      "name": "Slider Card Rounded",
+      "file": "ui-slider-card-rounded-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-slider-card-rounded-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "poll",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

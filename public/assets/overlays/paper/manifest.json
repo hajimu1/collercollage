@@ -1,0 +1,46 @@
+{
+  "category": "overlays",
+  "type": "paper",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-paper-fibers-mono-overlay-1080x1920-v01",
+      "name": "Mono Paper Fibers",
+      "file": "overlay-paper-fibers-mono-overlay-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "paper",
+        "fibers",
+        "photocopy"
+      ],
+      "preview": "../../previews/overlays/overlay-paper-fibers-mono-overlay-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.26,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-paper-scan-warm-multiply-1080x1920-v01",
+      "name": "Warm Paper Scan",
+      "file": "overlay-paper-scan-warm-multiply-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "paper",
+        "scan",
+        "warm",
+        "multiply"
+      ],
+      "preview": "../../previews/overlays/overlay-paper-scan-warm-multiply-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "multiply",
+      "recommendedOpacity": 0.28,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": false
+    }
+  ]
+}

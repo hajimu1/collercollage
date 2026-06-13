@@ -1,0 +1,35 @@
+{
+  "category": "backgrounds",
+  "type": "magazine",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-magazine-black-grain-1080x1920-v01",
+      "name": "Black Grain",
+      "file": "bg-magazine-black-grain-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-magazine-black-grain-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "magazine",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-magazine-gray-print-1080x1920-v01",
+      "name": "Gray Print",
+      "file": "bg-magazine-gray-print-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-magazine-gray-print-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "magazine",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

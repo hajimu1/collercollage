@@ -1,0 +1,18 @@
+{
+  "category": "templates",
+  "type": "magazine-collage",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-magazine-collage-bw-1080x1920-v01",
+      "name": "Black White Magazine Collage",
+      "file": "template-magazine-collage-bw-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-magazine-collage-bw-1080x1920-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "magazine-collage",
+        "black"
+      ]
+    }
+  ]
+}

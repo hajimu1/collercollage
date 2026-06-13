@@ -1,0 +1,46 @@
+{
+  "category": "ui-overlays",
+  "type": "notification",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-notification-bubble-glass-white-1080x1920-v01",
+      "name": "Ui Notification Bubble Glass White",
+      "file": "ui-notification-bubble-glass-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-notification-bubble-glass-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "notification"
+      ]
+    },
+    {
+      "id": "ui-notification-bubble-glass-white-1080x1920-v02",
+      "name": "Ui Notification Bubble Glass White",
+      "file": "ui-notification-bubble-glass-white-1080x1920-v02.svg",
+      "preview": "../../previews/ui-overlays/ui-notification-bubble-glass-white-1080x1920-v02-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "notification"
+      ]
+    },
+    {
+      "id": "ui-notification-bubble-glass-white-1080x1920-v03",
+      "name": "Ui Notification Bubble Glass White",
+      "file": "ui-notification-bubble-glass-white-1080x1920-v03.svg",
+      "preview": "../../previews/ui-overlays/ui-notification-bubble-glass-white-1080x1920-v03-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "ui",
+        "notification"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "category": "ui-overlays",
+  "type": "comment",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-comment-bubble-soft-white-1080x1920-v01",
+      "name": "Comment Bubble Soft",
+      "file": "ui-comment-bubble-soft-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-comment-bubble-soft-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "comment",
+        "ui-overlay",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

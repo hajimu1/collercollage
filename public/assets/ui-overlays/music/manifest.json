@@ -1,0 +1,35 @@
+{
+  "category": "ui-overlays",
+  "type": "music",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-music-lyric-panel-white-1080x1920-v01",
+      "name": "Music Lyric Panel",
+      "file": "ui-music-lyric-panel-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-music-lyric-panel-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-music-playlist-card-white-1080x1920-v01",
+      "name": "Music Playlist Card",
+      "file": "ui-music-playlist-card-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-music-playlist-card-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "music",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

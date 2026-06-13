@@ -1,0 +1,21 @@
+{
+  "category": "backgrounds",
+  "type": "dot",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-dot-soft-gray-tile512-v01",
+      "name": "Bg Dot Soft Gray",
+      "file": "bg-dot-soft-gray-tile512-v01.svg",
+      "preview": "../../previews/backgrounds/bg-dot-soft-gray-tile512-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "dot",
+        "pattern",
+        "tile"
+      ]
+    }
+  ]
+}

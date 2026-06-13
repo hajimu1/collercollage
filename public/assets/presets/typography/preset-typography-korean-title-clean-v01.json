@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-korean-title-clean-v01",
+  "name": "Korean Title Clean",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Pretendard\", \"Apple SD Gothic Neo\", sans-serif",
+  "fontSize": 40,
+  "fontWeight": 700,
+  "letterSpacing": 0.0,
+  "lineHeight": 1.12,
+  "fill": "#ffffff"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-japanese-note-soft-v01",
+  "name": "Japanese Note Soft",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Yu Gothic\", \"Hiragino Sans\", sans-serif",
+  "fontSize": 26,
+  "fontWeight": 500,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.28,
+  "fill": "#474747"
+}

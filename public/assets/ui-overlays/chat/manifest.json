@@ -1,0 +1,61 @@
+{
+  "category": "ui-overlays",
+  "type": "chat",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-chat-bubble-black-reply-1080x1920-v01",
+      "name": "Black Reply Chat Bubble",
+      "file": "ui-chat-bubble-black-reply-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "chat",
+        "bubble",
+        "generic"
+      ],
+      "preview": "../../previews/ui-overlays/ui-chat-bubble-black-reply-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    },
+    {
+      "id": "ui-chat-bubble-rounded-white-1080x1920-v01",
+      "name": "Rounded White Chat Bubble",
+      "file": "ui-chat-bubble-rounded-white-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "chat",
+        "bubble",
+        "generic"
+      ],
+      "preview": "../../previews/ui-overlays/ui-chat-bubble-rounded-white-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    },
+    {
+      "id": "ui-chat-bubble-stack-soft-1080x1920-v01",
+      "name": "Soft Chat Bubble Stack",
+      "file": "ui-chat-bubble-stack-soft-1080x1920-v01.svg",
+      "format": "svg",
+      "tags": [
+        "ui",
+        "chat",
+        "bubble",
+        "generic"
+      ],
+      "preview": "../../previews/ui-overlays/ui-chat-bubble-stack-soft-1080x1920-v01-preview.png",
+      "canvasSize": {
+        "width": 1080,
+        "height": 1920
+      },
+      "editableText": true
+    }
+  ]
+}

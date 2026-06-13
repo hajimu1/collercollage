@@ -1,0 +1,55 @@
+{
+  "id": "template-scrapbook-labels-1080x1920-v01",
+  "name": "Scrapbook Labels",
+  "category": "template",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "backgroundAssetId": "bg-noise-gradient-mintpeach-1080x1920-v01",
+  "elements": [
+    {
+      "type": "image-placeholder",
+      "id": "photo-1",
+      "x": 135,
+      "y": 169,
+      "width": 420,
+      "height": 520,
+      "rotation": 3,
+      "frameAssetId": "frame-stacked-polaroid-paper-white-4x5-v01"
+    },
+    {
+      "type": "image-placeholder",
+      "id": "photo-2",
+      "x": 500,
+      "y": 637,
+      "width": 360,
+      "height": 420,
+      "rotation": -3,
+      "maskAssetId": "mask-heart-blob-soft-black-1024-v01"
+    },
+    {
+      "type": "text-placeholder",
+      "id": "caption-1",
+      "text": "your caption here",
+      "x": 128,
+      "y": 1280,
+      "width": 760,
+      "stylePresetId": "preset-typography-tiny-diary-note-v01"
+    },
+    {
+      "type": "ui-overlay",
+      "assetId": "ui-location-tag-pill-white-1080x1920-v01",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "suggestedTonePresetId": "preset-tone-photocopy-bw-v01",
+  "tags": [
+    "scrapbook",
+    "story",
+    "v03"
+  ]
+}

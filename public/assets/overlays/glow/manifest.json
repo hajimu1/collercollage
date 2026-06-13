@@ -1,0 +1,77 @@
+{
+  "category": "overlays",
+  "type": "glow",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-glow-blue-corner-screen-1080x1920-v01",
+      "name": "Overlay Glow Blue Corner Screen",
+      "file": "overlay-glow-blue-corner-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-blue-corner-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "glow",
+        "haze",
+        "blue-corner"
+      ]
+    },
+    {
+      "id": "overlay-glow-dreamy-pink-screen-1080x1920-v01",
+      "name": "Overlay Glow Dreamy Pink Screen",
+      "file": "overlay-glow-dreamy-pink-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-dreamy-pink-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "glow",
+        "haze",
+        "dreamy-pink"
+      ]
+    },
+    {
+      "id": "overlay-glow-green-diary-screen-1080x1920-v01",
+      "name": "Overlay Glow Green Diary Screen",
+      "file": "overlay-glow-green-diary-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-green-diary-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "glow",
+        "haze",
+        "green-diary"
+      ]
+    },
+    {
+      "id": "overlay-glow-white-window-screen-1080x1920-v01",
+      "name": "Overlay Glow White Window Screen",
+      "file": "overlay-glow-white-window-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-white-window-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "glow",
+        "haze",
+        "white-window"
+      ]
+    },
+    {
+      "id": "overlay-glow-yellow-flash-screen-1080x1920-v01",
+      "name": "Overlay Glow Yellow Flash Screen",
+      "file": "overlay-glow-yellow-flash-screen-1080x1920-v01.png",
+      "preview": "../../previews/overlays/overlay-glow-yellow-flash-screen-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.45,
+      "tags": [
+        "glow",
+        "haze",
+        "yellow-flash"
+      ]
+    }
+  ]
+}

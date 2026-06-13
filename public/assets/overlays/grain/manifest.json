@@ -1,0 +1,107 @@
+{
+  "category": "overlays",
+  "type": "grain",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-grain-fine-mono-neutral-1080x1920-v01",
+      "name": "Fine Mono Grain",
+      "file": "overlay-grain-fine-mono-neutral-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "grain",
+        "film",
+        "photo-dump",
+        "texture"
+      ],
+      "preview": "../../previews/overlays/overlay-grain-fine-mono-neutral-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.24,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-grain-heavy-mono-neutral-1080x1920-v01",
+      "name": "Heavy Mono Grain",
+      "file": "overlay-grain-heavy-mono-neutral-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "grain",
+        "film",
+        "photo-dump",
+        "texture"
+      ],
+      "preview": "../../previews/overlays/overlay-grain-heavy-mono-neutral-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.18,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-grain-soft-color-neutral-1080x1920-v01",
+      "name": "Soft Color Grain",
+      "file": "overlay-grain-soft-color-neutral-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "grain",
+        "film",
+        "photo-dump",
+        "texture"
+      ],
+      "preview": "../../previews/overlays/overlay-grain-soft-color-neutral-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.2,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-grain-square-digital-neutral-1080x1920-v01",
+      "name": "Square Digital Grain",
+      "file": "overlay-grain-square-digital-neutral-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "grain",
+        "film",
+        "photo-dump",
+        "texture"
+      ],
+      "preview": "../../previews/overlays/overlay-grain-square-digital-neutral-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.16,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-grain-vertical-film-neutral-1080x1920-v01",
+      "name": "Vertical Film Grain",
+      "file": "overlay-grain-vertical-film-neutral-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "grain",
+        "film",
+        "photo-dump",
+        "texture"
+      ],
+      "preview": "../../previews/overlays/overlay-grain-vertical-film-neutral-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "overlay",
+      "recommendedOpacity": 0.22,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    }
+  ]
+}

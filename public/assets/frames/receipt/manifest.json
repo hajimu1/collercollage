@@ -1,0 +1,20 @@
+{
+  "category": "frames",
+  "type": "receipt",
+  "version": 1,
+  "items": [
+    {
+      "id": "frame-receipt-paper-cream-vertical-v01",
+      "name": "Frame Receipt Paper Cream Vertical",
+      "file": "frame-receipt-paper-cream-vertical-v01.svg",
+      "preview": "../../previews/frames/frame-receipt-paper-cream-vertical-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "frame",
+        "receipt"
+      ]
+    }
+  ]
+}

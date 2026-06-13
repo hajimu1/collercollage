@@ -1,0 +1,116 @@
+{
+  "category": "templates",
+  "type": "diary-page",
+  "version": 1,
+  "items": [
+    {
+      "id": "template-diary-page-01-1080x1920-v01",
+      "name": "Diary Page 01",
+      "file": "template-diary-page-01-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-01-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-02-1080x1920-v01",
+      "name": "Diary Page 02",
+      "file": "template-diary-page-02-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-02-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-03-1080x1920-v01",
+      "name": "Diary Page 03",
+      "file": "template-diary-page-03-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-03-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-04-1080x1920-v01",
+      "name": "Diary Page 04",
+      "file": "template-diary-page-04-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-04-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-05-1080x1920-v01",
+      "name": "Diary Page 05",
+      "file": "template-diary-page-05-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-05-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-06-1080x1920-v01",
+      "name": "Diary Page 06",
+      "file": "template-diary-page-06-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-06-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "template-diary-page-notebook-1080x1920-v01",
+      "name": "Diary Page Notebook",
+      "file": "template-diary-page-notebook-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-notebook-1080x1920-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "diary-page",
+        "template",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "template-diary-page-paper-sticker-1080x1920-v01",
+      "name": "Paper Sticker Diary Page",
+      "file": "template-diary-page-paper-sticker-1080x1920-v01.json",
+      "preview": "../../previews/templates/template-diary-page-paper-sticker-1080x1920-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "diary-page",
+        "paper"
+      ]
+    }
+  ]
+}

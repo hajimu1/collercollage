@@ -1,0 +1,50 @@
+{
+  "id": "template-photo-dump-grid-soft-neutral-1080x1920-v01",
+  "name": "Soft Neutral Photo Dump",
+  "canvasSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "category": "template",
+  "tags": [
+    "photo-dump",
+    "soft"
+  ],
+  "layers": [
+    {
+      "type": "background",
+      "fill": "#eee8dd"
+    },
+    {
+      "type": "image-placeholder",
+      "x": 70,
+      "y": 170,
+      "width": 440,
+      "height": 600,
+      "radius": 28
+    },
+    {
+      "type": "image-placeholder",
+      "x": 560,
+      "y": 280,
+      "width": 430,
+      "height": 520,
+      "radius": 28
+    },
+    {
+      "type": "image-placeholder",
+      "x": 145,
+      "y": 850,
+      "width": 780,
+      "height": 500,
+      "radius": 28
+    },
+    {
+      "type": "text",
+      "text": "today's little archive",
+      "x": 92,
+      "y": 1460,
+      "fontPreset": "preset-typography-micro-location-v01"
+    }
+  ]
+}

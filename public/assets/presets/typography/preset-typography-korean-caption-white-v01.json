@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-korean-caption-white-v01",
+  "name": "Korean Caption White",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Pretendard\", \"Apple SD Gothic Neo\", sans-serif",
+  "fontSize": 28,
+  "fontWeight": 600,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.22,
+  "fill": "#ffffff"
+}

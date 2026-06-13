@@ -1,0 +1,16 @@
+{
+  "id": "preset-typography-tiny-diary-note-v01",
+  "name": "Tiny Diary Note",
+  "category": "typography",
+  "tags": [
+    "diary",
+    "tiny",
+    "v03"
+  ],
+  "fontFamily": "\"Inter\", \"Pretendard\", sans-serif",
+  "fontSize": 24,
+  "fontWeight": 500,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.28,
+  "fill": "#3b3b3b"
+}

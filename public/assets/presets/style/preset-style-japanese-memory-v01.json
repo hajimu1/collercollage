@@ -1,0 +1,22 @@
+{
+  "id": "preset-style-japanese-memory-v01",
+  "name": "Japanese Memory",
+  "category": "style",
+  "tags": [
+    "style",
+    "bundle",
+    "v04"
+  ],
+  "recommendedBackgrounds": [
+    "bg-paper-muted-pink-1080x1920-v01"
+  ],
+  "recommendedStickers": [
+    "sticker-text-ja-caption-natsu-no-kioku-512-v01",
+    "sticker-label-summer-solid-512-v01"
+  ],
+  "recommendedUi": [
+    "ui-music-lyric-panel-white-1080x1920-v01"
+  ],
+  "recommendedTonePresetId": "preset-tone-dreamy-pink-v01",
+  "recommendedTypographyPresetId": "preset-typography-japanese-tiny-caption-v01"
+}

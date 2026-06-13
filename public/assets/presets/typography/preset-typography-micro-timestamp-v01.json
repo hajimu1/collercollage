@@ -1,0 +1,24 @@
+{
+  "id": "preset-typography-micro-timestamp-v01",
+  "name": "Micro Timestamp",
+  "fontFamily": "\"IBM Plex Mono\", \"D2Coding\", monospace",
+  "fontSize": 22,
+  "fontWeight": 500,
+  "letterSpacing": 0.08,
+  "lineHeight": 1.1,
+  "fill": "#ffffff",
+  "shadow": {
+    "color": "rgba(0,0,0,0.30)",
+    "blur": 4,
+    "offsetX": 0,
+    "offsetY": 1
+  },
+  "category": "typography",
+  "version": 1,
+  "tags": [
+    "typography",
+    "preset",
+    "micro",
+    "timestamp"
+  ]
+}

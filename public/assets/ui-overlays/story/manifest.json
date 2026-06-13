@@ -1,0 +1,63 @@
+{
+  "category": "ui-overlays",
+  "type": "story",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-story-caption-bar-white-1080x1920-v01",
+      "name": "Story Caption Bar",
+      "file": "ui-story-caption-bar-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-story-caption-bar-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "story",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-story-location-pill-white-1080x1920-v01",
+      "name": "Story Location Pill",
+      "file": "ui-story-location-pill-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-story-location-pill-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "story",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-story-status-bar-white-1080x1920-v01",
+      "name": "Story Status Bar",
+      "file": "ui-story-status-bar-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-story-status-bar-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "story",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-story-time-badge-white-1080x1920-v01",
+      "name": "Story Time Badge",
+      "file": "ui-story-time-badge-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-story-time-badge-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "story",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "preset-tone-cool-old-phone-v01",
+  "name": "Cool Old Phone",
+  "category": "tone",
+  "adjustments": {
+    "brightness": -0.02,
+    "contrast": 0.04,
+    "saturation": -0.15,
+    "temperature": -0.09,
+    "grain": 0.18
+  },
+  "recommendedOverlays": [],
+  "tags": [
+    "old-phone",
+    "cool"
+  ]
+}

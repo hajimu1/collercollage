@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-scribble-caption-v01",
+  "name": "Scribble Caption",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Comic Sans MS\", \"Trebuchet MS\", sans-serif",
+  "fontSize": 28,
+  "fontWeight": 600,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.15,
+  "fill": "#ffffff"
+}

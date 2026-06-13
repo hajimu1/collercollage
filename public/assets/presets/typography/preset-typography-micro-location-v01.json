@@ -1,0 +1,14 @@
+{
+  "id": "preset-typography-micro-location-v01",
+  "name": "Micro Location Tag",
+  "category": "typography",
+  "fontFamily": "\"Inter\", \"Pretendard\", sans-serif",
+  "fontSize": 22,
+  "fontWeight": 600,
+  "letterSpacing": 0.12,
+  "lineHeight": 1.15,
+  "fill": "#ffffff",
+  "tags": [
+    "typography"
+  ]
+}

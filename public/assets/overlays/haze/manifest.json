@@ -1,0 +1,64 @@
+{
+  "category": "overlays",
+  "type": "haze",
+  "version": 1,
+  "items": [
+    {
+      "id": "overlay-flash-corner-white-screen-1080x1920-v01",
+      "name": "Corner Flash Glow",
+      "file": "overlay-flash-corner-white-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "flash",
+        "old-phone-camera",
+        "glow"
+      ],
+      "preview": "../../previews/overlays/overlay-flash-corner-white-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.42,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-glow-ring-white-softlight-1080x1920-v01",
+      "name": "Soft Glow Ring",
+      "file": "overlay-glow-ring-white-softlight-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "glow",
+        "dreamy",
+        "haze"
+      ],
+      "preview": "../../previews/overlays/overlay-glow-ring-white-softlight-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "soft-light",
+      "recommendedOpacity": 0.36,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    },
+    {
+      "id": "overlay-haze-center-white-screen-1080x1920-v01",
+      "name": "Center White Haze",
+      "file": "overlay-haze-center-white-screen-1080x1920-v01.png",
+      "format": "png",
+      "tags": [
+        "haze",
+        "dreamy",
+        "white"
+      ],
+      "preview": "../../previews/overlays/overlay-haze-center-white-screen-1080x1920-v01-preview.png",
+      "recommendedBlendMode": "screen",
+      "recommendedOpacity": 0.34,
+      "size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "transparent": true
+    }
+  ]
+}

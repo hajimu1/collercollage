@@ -1,0 +1,35 @@
+{
+  "category": "ui-overlays",
+  "type": "note",
+  "version": 1,
+  "items": [
+    {
+      "id": "ui-note-comment-card-white-1080x1920-v01",
+      "name": "Note Comment Card",
+      "file": "ui-note-comment-card-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-note-comment-card-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "note",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "ui-note-quote-box-white-1080x1920-v01",
+      "name": "Note Quote Box",
+      "file": "ui-note-quote-box-white-1080x1920-v01.svg",
+      "preview": "../../previews/ui-overlays/ui-note-quote-box-white-1080x1920-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "note",
+        "ui-overlay",
+        "story-pack-v04"
+      ]
+    }
+  ]
+}

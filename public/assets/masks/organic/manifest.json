@@ -1,0 +1,77 @@
+{
+  "category": "masks",
+  "type": "organic",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-capsule-vertical-soft-black-1024-v01",
+      "name": "Capsule Vertical",
+      "file": "mask-capsule-vertical-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-capsule-vertical-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "organic",
+        "mask",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "mask-flower-eightpetal-soft-black-1024-v01",
+      "name": "Flower Eightpetal",
+      "file": "mask-flower-eightpetal-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-flower-eightpetal-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "organic",
+        "mask",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "mask-heart-blob-soft-black-1024-v01",
+      "name": "Heart Blob",
+      "file": "mask-heart-blob-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-heart-blob-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "organic",
+        "mask",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "mask-ribbon-cutout-soft-black-1024-v01",
+      "name": "Ribbon Cutout",
+      "file": "mask-ribbon-cutout-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-ribbon-cutout-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "organic",
+        "mask",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "mask-squircle-soft-black-1024-v01",
+      "name": "Squircle Soft",
+      "file": "mask-squircle-soft-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-squircle-soft-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "organic",
+        "mask",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

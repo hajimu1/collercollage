@@ -1,0 +1,15 @@
+{
+  "id": "preset-typography-tiny-gray-note-v01",
+  "name": "Tiny Gray Note",
+  "category": "typography",
+  "tags": [
+    "typography",
+    "v04"
+  ],
+  "fontFamily": "\"Inter\", \"Pretendard\", sans-serif",
+  "fontSize": 24,
+  "fontWeight": 500,
+  "letterSpacing": 0.01,
+  "lineHeight": 1.28,
+  "fill": "#4a4a4a"
+}

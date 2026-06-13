@@ -1,0 +1,21 @@
+{
+  "category": "masks",
+  "type": "cloud",
+  "version": 1,
+  "items": [
+    {
+      "id": "mask-cloud-soft-rounded-black-1024-v01",
+      "name": "Cloud Soft Rounded",
+      "file": "mask-cloud-soft-rounded-black-1024-v01.svg",
+      "preview": "../../previews/masks/mask-cloud-soft-rounded-black-1024-v01-preview.png",
+      "format": "svg",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "cloud",
+        "mask",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "category": "backgrounds",
+  "type": "gradient",
+  "version": 1,
+  "items": [
+    {
+      "id": "bg-gradient-faded-lilacblue-1080x1920-v01",
+      "name": "Gradient Faded Lilac Blue",
+      "file": "bg-gradient-faded-lilacblue-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-faded-lilacblue-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "background",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "bg-gradient-gray-lilac-1080x1920-v01",
+      "name": "Bg Gradient Gray Lilac",
+      "file": "bg-gradient-gray-lilac-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-gray-lilac-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "gray-lilac"
+      ]
+    },
+    {
+      "id": "bg-gradient-green-cream-1080x1920-v01",
+      "name": "Bg Gradient Green Cream",
+      "file": "bg-gradient-green-cream-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-green-cream-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "green-cream"
+      ]
+    },
+    {
+      "id": "bg-gradient-lilac-sky-1080x1920-v01",
+      "name": "Lilac Sky",
+      "file": "bg-gradient-lilac-sky-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-lilac-sky-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-gradient-mint-peach-1080x1920-v01",
+      "name": "Mint Peach",
+      "file": "bg-gradient-mint-peach-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-mint-peach-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "backgrounds",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "bg-gradient-soft-peachblue-1080x1920-v01",
+      "name": "Bg Gradient Soft Peachblue",
+      "file": "bg-gradient-soft-peachblue-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-soft-peachblue-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "soft-peachblue"
+      ]
+    },
+    {
+      "id": "bg-gradient-y2k-pinkcyan-1080x1920-v01",
+      "name": "Bg Gradient Y2k Pinkcyan",
+      "file": "bg-gradient-y2k-pinkcyan-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-gradient-y2k-pinkcyan-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "y2k-pinkcyan"
+      ]
+    },
+    {
+      "id": "bg-noise-gradient-mintpeach-1080x1920-v01",
+      "name": "Noise Gradient Mint Peach",
+      "file": "bg-noise-gradient-mintpeach-1080x1920-v01.png",
+      "preview": "../../previews/backgrounds/bg-noise-gradient-mintpeach-1080x1920-v01-preview.png",
+      "format": "png",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "gradient",
+        "background",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

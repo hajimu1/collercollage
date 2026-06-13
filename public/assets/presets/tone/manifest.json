@@ -1,0 +1,304 @@
+{
+  "category": "presets",
+  "type": "tone",
+  "version": 1,
+  "items": [
+    {
+      "id": "preset-tone-cool-old-phone-v01",
+      "name": "Cool Old Phone",
+      "file": "preset-tone-cool-old-phone-v01.json",
+      "preview": "../../previews/presets/preset-tone-cool-old-phone-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "old-phone",
+        "cool"
+      ]
+    },
+    {
+      "id": "preset-tone-dreamy-glow-v01",
+      "name": "Dreamy Glow",
+      "file": "preset-tone-dreamy-glow-v01.json",
+      "preview": "../../previews/presets/preset-tone-dreamy-glow-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "dreamy",
+        "glow"
+      ]
+    },
+    {
+      "id": "preset-tone-dreamy-pink-v01",
+      "name": "Dreamy Pink",
+      "file": "preset-tone-dreamy-pink-v01.json",
+      "preview": "../../previews/presets/preset-tone-dreamy-pink-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-faded-summer-v01",
+      "name": "Faded Summer",
+      "file": "preset-tone-faded-summer-v01.json",
+      "format": "json",
+      "tags": [
+        "faded",
+        "summer",
+        "tone",
+        "preset"
+      ]
+    },
+    {
+      "id": "preset-tone-green-diary-soft-v01",
+      "name": "Green Diary Soft",
+      "file": "preset-tone-green-diary-soft-v01.json",
+      "preview": "../../previews/presets/preset-tone-green-diary-soft-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-green-diary-v01",
+      "name": "Green Diary",
+      "file": "preset-tone-green-diary-v01.json",
+      "format": "json",
+      "tags": [
+        "green",
+        "diary",
+        "tone",
+        "preset"
+      ]
+    },
+    {
+      "id": "preset-tone-low-contrast-gray-v01",
+      "name": "Low Contrast Gray",
+      "file": "preset-tone-low-contrast-gray-v01.json",
+      "preview": "../../previews/presets/preset-tone-low-contrast-gray-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-magazine-bw-v01",
+      "name": "Magazine BW",
+      "file": "preset-tone-magazine-bw-v01.json",
+      "preview": "../../previews/presets/preset-tone-magazine-bw-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-milky-white-v01",
+      "name": "Milky White",
+      "file": "preset-tone-milky-white-v01.json",
+      "preview": "../../previews/presets/preset-tone-milky-white-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-tone-night-blue-haze-v01",
+      "name": "Night Blue Haze",
+      "file": "preset-tone-night-blue-haze-v01.json",
+      "preview": "../../previews/presets/preset-tone-night-blue-haze-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-old-phone-camera-v01",
+      "name": "Old Phone Camera",
+      "file": "preset-tone-old-phone-camera-v01.json",
+      "format": "json",
+      "tags": [
+        "old",
+        "phone",
+        "camera",
+        "tone",
+        "preset"
+      ]
+    },
+    {
+      "id": "preset-tone-old-phone-flash-v01",
+      "name": "Old Phone Flash",
+      "file": "preset-tone-old-phone-flash-v01.json",
+      "preview": "../../previews/presets/preset-tone-old-phone-flash-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-paper-scan-v01",
+      "name": "Paper Scan",
+      "file": "preset-tone-paper-scan-v01.json",
+      "preview": "../../previews/presets/preset-tone-paper-scan-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "paper",
+        "scan"
+      ]
+    },
+    {
+      "id": "preset-tone-photo-dump-neutral-v01",
+      "name": "Photo Dump Neutral",
+      "file": "preset-tone-photo-dump-neutral-v01.json",
+      "preview": "../../previews/presets/preset-tone-photo-dump-neutral-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "photo-dump",
+        "neutral"
+      ]
+    },
+    {
+      "id": "preset-tone-photocopy-bw-v01",
+      "name": "Photocopy BW",
+      "file": "preset-tone-photocopy-bw-v01.json",
+      "preview": "../../previews/presets/preset-tone-photocopy-bw-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v03"
+      ]
+    },
+    {
+      "id": "preset-tone-photocopy-soft-v01",
+      "name": "Photocopy Soft",
+      "file": "preset-tone-photocopy-soft-v01.json",
+      "preview": "../../previews/presets/preset-tone-photocopy-soft-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-photocopy-v01",
+      "name": "Photocopy",
+      "file": "preset-tone-photocopy-v01.json",
+      "format": "json",
+      "tags": [
+        "photocopy",
+        "tone",
+        "preset"
+      ]
+    },
+    {
+      "id": "preset-tone-soft-cream-film-v01",
+      "name": "Soft Cream Film",
+      "file": "preset-tone-soft-cream-film-v01.json",
+      "preview": "../../previews/presets/preset-tone-soft-cream-film-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-soft-film-v01",
+      "name": "Soft Film",
+      "file": "preset-tone-soft-film-v01.json",
+      "format": "json",
+      "tags": [
+        "soft",
+        "film",
+        "tone",
+        "preset"
+      ]
+    },
+    {
+      "id": "preset-tone-soft-flash-night-v01",
+      "name": "Soft Flash Night",
+      "file": "preset-tone-soft-flash-night-v01.json",
+      "preview": "../../previews/presets/preset-tone-soft-flash-night-v01-preview.png",
+      "format": "json",
+      "tags": [
+        "flash",
+        "night"
+      ]
+    },
+    {
+      "id": "preset-tone-sunset-milk-v01",
+      "name": "Sunset Milk",
+      "file": "preset-tone-sunset-milk-v01.json",
+      "preview": "../../previews/presets/preset-tone-sunset-milk-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-y2k-vivid-pop-v01",
+      "name": "Y2K Vivid Pop",
+      "file": "preset-tone-y2k-vivid-pop-v01.json",
+      "preview": "../../previews/presets/preset-tone-y2k-vivid-pop-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v04"
+      ]
+    },
+    {
+      "id": "preset-tone-y2k-vivid-v01",
+      "name": "Y2K Vivid",
+      "file": "preset-tone-y2k-vivid-v01.json",
+      "preview": "../../previews/presets/preset-tone-y2k-vivid-v01-preview.png",
+      "format": "json",
+      "recommendedBlendMode": "normal",
+      "recommendedOpacity": 1,
+      "tags": [
+        "tone",
+        "preset",
+        "story-pack-v03"
+      ]
+    }
+  ]
+}

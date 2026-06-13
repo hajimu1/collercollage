@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+<rect x="80" y="92" width="920" height="1736" rx="52" fill="none" stroke="rgba(255,255,255,.72)" stroke-width="4"/><circle cx="540" cy="1688" r="64" fill="none" stroke="#fff" stroke-width="10"/><circle cx="540" cy="1688" r="42" fill="rgba(255,255,255,.18)"/><text x="540" y="1548" font-family="Inter, Arial, sans-serif" font-size="28" text-anchor="middle" fill="#fff">PHOTO  VIDEO  STORY</text><rect x="152" y="132" width="88" height="44" rx="22" fill="rgba(255,255,255,.32)"/>
+</svg>
