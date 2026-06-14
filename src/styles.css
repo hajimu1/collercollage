@@ -1,4 +1,4 @@
-﻿/* STYLE MAP
+/* STYLE MAP
    1. Fonts and design tokens
    2. Base app, canvas, and panel controls
    3. Legacy single-column/mobile shell styles
@@ -2457,6 +2457,7 @@ input[type="color"] {
   scrollbar-width: none; /* Firefox */
   -webkit-overflow-scrolling: touch;
   flex: 1;
+  min-width: 0;
   gap: 2px;
   padding-left: 6px;
 }
@@ -2665,7 +2666,7 @@ input[type="color"] {
 }
 
 
-@media (max-width: 390px) {
+@media (max-width: 480px) {
   .mobile-tool-btn {
     min-width: 52px;
     font-size: 9.5px;
