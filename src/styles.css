@@ -2928,3 +2928,9 @@ input[type="color"] {
   border-color: var(--accent);
   box-shadow: 0 0 0 2px rgba(0, 118, 246, 0.3);
 }
+
+/* Prevent Safari ghost clicks / click pass-through to canvas when bottom sheet is open */
+.editor-shell:has(.bottom-sheet[data-open="true"]) .canvas-shell,
+.editor-shell:has(.bottom-sheet-backdrop[data-open="true"]) .canvas-shell {
+  pointer-events: none !important;
+}
