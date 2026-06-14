@@ -12,7 +12,7 @@ export function TopBar({ editor, projectStorage, onExportClick }: TopBarProps) {
   return (
     <header className="topbar">
       <div className="topbar-brand">
-        <span className="topbar-logo">Layer Collage</span>
+        <span className="topbar-logo">collercollage</span>
         <span className="topbar-canvas-size">
           {editor.canvasSize.width} × {editor.canvasSize.height}
         </span>
