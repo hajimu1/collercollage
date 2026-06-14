@@ -1944,24 +1944,30 @@ input[type="color"] {
   }
 
   .collage-layout-scroll-container {
-    max-height: none;
-    overflow-y: hidden;
-    overflow-x: auto;
+    max-height: 152px;
+    overflow-y: auto;
+    overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
   }
 
   .collage-layout-grid {
-    display: flex;
-    flex-wrap: nowrap;
-    width: max-content;
-    grid-template-columns: none;
-    gap: 8px;
-    padding-bottom: 4px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+    padding-bottom: 2px;
   }
 
   .collage-layout-button {
-    flex: 0 0 68px;
+    flex: none;
     min-height: 60px;
+    padding: 6px 2px 4px;
+  }
+
+  .collage-layout-label {
+    white-space: normal;
+    word-break: keep-all;
+    font-size: 9px;
+    line-height: 1.15;
   }
 
   .chip-button,
