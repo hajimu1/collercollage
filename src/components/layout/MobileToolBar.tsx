@@ -1,4 +1,4 @@
-﻿import { Download, ImagePlus, Layers, LayoutGrid, PaintBucket, Settings2, Shapes, Type } from 'lucide-react';
+import { Download, ImagePlus, Layers, LayoutGrid, MousePointer2, PaintBucket, Settings2, Shapes, Type } from 'lucide-react';
 import type { BottomSheetPanel, EditorTool } from '../../types/editor-ui';
 
 interface MobileToolBarProps {
@@ -9,6 +9,7 @@ interface MobileToolBarProps {
 }
 
 const toolItems = [
+  { id: 'select' as EditorTool, label: 'Select', icon: MousePointer2 },
   { id: 'image' as EditorTool, label: 'Image', icon: ImagePlus },
   { id: 'text' as EditorTool, label: 'Text', icon: Type },
   { id: 'shape' as EditorTool, label: 'Shape', icon: Shapes },
