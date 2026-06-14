@@ -22,15 +22,13 @@ export function MobileToolBar({ activeTool, onToolChange, activeSheet, onSheetCh
     onSheetChange(activeSheet === panel ? null : panel);
   };
 
-  const handleToolTrigger = (e: React.SyntheticEvent, id: EditorTool) => {
-    e.preventDefault();
+  const handleToolTrigger = (e: React.MouseEvent, id: EditorTool) => {
     e.stopPropagation();
     onToolChange(id);
     onSheetChange('properties');
   };
 
-  const handleActionTrigger = (e: React.SyntheticEvent, panel: BottomSheetPanel) => {
-    e.preventDefault();
+  const handleActionTrigger = (e: React.MouseEvent, panel: BottomSheetPanel) => {
     e.stopPropagation();
     toggleSheet(panel);
   };
@@ -44,7 +42,6 @@ export function MobileToolBar({ activeTool, onToolChange, activeSheet, onSheetCh
             className="mobile-tool-btn"
             data-selected={activeTool === id && activeSheet === null}
             onClick={(e) => handleToolTrigger(e, id)}
-            onTouchEnd={(e) => handleToolTrigger(e, id)}
             type="button"
           >
             <Icon size={20} aria-hidden="true" />
@@ -58,7 +55,6 @@ export function MobileToolBar({ activeTool, onToolChange, activeSheet, onSheetCh
           className="mobile-tool-btn"
           data-selected={activeSheet === 'properties'}
           onClick={(e) => handleActionTrigger(e, 'properties')}
-          onTouchEnd={(e) => handleActionTrigger(e, 'properties')}
           type="button"
         >
           <Settings2 size={20} aria-hidden="true" />
@@ -68,7 +64,6 @@ export function MobileToolBar({ activeTool, onToolChange, activeSheet, onSheetCh
           className="mobile-tool-btn"
           data-selected={activeSheet === 'layers'}
           onClick={(e) => handleActionTrigger(e, 'layers')}
-          onTouchEnd={(e) => handleActionTrigger(e, 'layers')}
           type="button"
         >
           <Layers size={20} aria-hidden="true" />
@@ -78,7 +73,6 @@ export function MobileToolBar({ activeTool, onToolChange, activeSheet, onSheetCh
           className="mobile-tool-btn"
           data-selected={activeSheet === 'export'}
           onClick={(e) => handleActionTrigger(e, 'export')}
-          onTouchEnd={(e) => handleActionTrigger(e, 'export')}
           type="button"
         >
           <Download size={20} aria-hidden="true" />

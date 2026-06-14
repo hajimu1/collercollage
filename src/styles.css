@@ -1953,6 +1953,7 @@ input[type="color"] {
   .collage-layout-grid {
     display: flex;
     flex-wrap: nowrap;
+    width: max-content;
     grid-template-columns: none;
     gap: 8px;
     padding-bottom: 4px;
