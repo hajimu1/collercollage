@@ -1793,6 +1793,39 @@ input[type="color"] {
 
 
 @media (max-width: 720px) {
+  .topbar {
+    padding: calc(4px + env(safe-area-inset-top)) 8px 4px;
+    gap: 8px;
+    min-height: 40px;
+  }
+
+  .topbar-brand {
+    gap: 6px;
+  }
+
+  .topbar-logo {
+    font-size: 13px;
+  }
+
+  .topbar-canvas-size {
+    font-size: 10px;
+  }
+
+  .topbar-save-status {
+    font-size: 10px;
+  }
+
+  .topbar-action-btn {
+    padding: 4px 8px;
+    gap: 4px;
+    font-size: 11px;
+    min-height: 36px;
+  }
+
+  .topbar-divider {
+    margin: 0 2px;
+  }
+
   .app-header {
     min-height: 50px;
     padding-left: 14px;
@@ -2655,6 +2688,32 @@ input[type="color"] {
 
 
 @media (max-width: 480px) {
+  .topbar {
+    padding: calc(4px + env(safe-area-inset-top)) 6px 4px;
+    gap: 4px;
+  }
+
+  .topbar-brand {
+    gap: 4px;
+  }
+
+  .topbar-canvas-size {
+    display: none;
+  }
+
+  .topbar-save-status {
+    font-size: 9.5px;
+    max-width: 70px;
+  }
+
+  .topbar-logo {
+    font-size: 12.5px;
+  }
+
+  .topbar-action-btn {
+    padding: 4px 6px;
+  }
+
   .mobile-tool-btn {
     min-width: 52px;
     font-size: 9.5px;
@@ -2869,4 +2928,3 @@ input[type="color"] {
   border-color: var(--accent);
   box-shadow: 0 0 0 2px rgba(0, 118, 246, 0.3);
 }
-
