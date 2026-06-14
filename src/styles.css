@@ -1965,7 +1965,9 @@ input[type="color"] {
   .canvas-shell {
     grid-row: 2 / 4;
     padding: 20px;
-  }.tool-dock {
+  }
+
+  .tool-dock {
     border-left: 1px solid var(--line);
     border-top: none;
     grid-column: 2;
@@ -1976,15 +1978,6 @@ input[type="color"] {
   .tab-button {
     font-size: 10.5px;
     min-height: 56px;
-  }
-
-  .collage-layout-grid {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
-
-
-  .panel-scroll {
-    padding: 16px;
   }
 }
 
@@ -2040,20 +2033,14 @@ input[type="color"] {
   white-space: nowrap;
 }
 
-
-
-
-
 .editor-shell {
   display: grid;
   grid-template-rows: auto minmax(0, 1fr) auto;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1fr);
   height: 100dvh;
   overflow: hidden;
   background: var(--app-bg);
 }
-
-
 
 .topbar {
   grid-row: 1;
