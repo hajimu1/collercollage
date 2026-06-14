@@ -60,7 +60,11 @@ export function PropertiesPanel({ editor, activeTool }: PropertiesPanelProps) {
     return <ImagePanel editor={editor} activeTab={activeImageTab} setActiveTab={handleActiveTabChange} />;
   }
 
-  if (activeTool === 'collage' || editor.activeCollage) {
+  if (activeTool === 'background') {
+    return <BackgroundPanel editor={editor} />;
+  }
+
+  if (activeTool === 'collage' || (activeTool !== 'select' && editor.activeCollage)) {
     return <CollageLayoutPanel editor={editor} />;
   }
 
