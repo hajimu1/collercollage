@@ -655,6 +655,7 @@ textarea:disabled {
   min-width: 0;
   overflow: hidden;
   padding: 14px;
+  position: relative;
   touch-action: none;
   width: 100%;
 }
